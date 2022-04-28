@@ -66,22 +66,26 @@ As the site owner, I want to:
 ### Structure
 
 ### Wireframes
-<details>
-    <summary>**Home Page**</summary>
-    ![Home Page Wireframe](docs/wireframes/Home-Page.png)
-</details>
-<details>
-    <summary>**Home Page**</summary>
-    ![About Wireframe](docs/wireframes/About.png)
-</details>
-<details>
-    <summary>**Home Page**</summary>
-    ![Contact Wireframe](docs/wireframes/Contact.png)
-</details>
-<details>
-    <summary>**Home Page**</summary>
-    ![Media Wireframe](docs/wireframes/Media.png)
-</details>
+<figure>
+    <img src="docs/wireframes/Home-Page.png"
+         alt="A wireframe for the home page">
+    <figcaption>A wireframe for the home page on mobile, tablet & browser</figcaption>
+</figure>
+<figure>
+    <img src="docs/wireframes/Media.png"
+         alt="A wireframe for the media or gallery page">
+    <figcaption>A wireframe for the media or gallery page on mobile, tablet & browser</figcaption>
+</figure>
+<figure>
+    <img src="docs/wireframes/About.png"
+         alt="A wireframe for the about page">
+    <figcaption>A wireframe for the about page on mobile, tablet & browser</figcaption>
+</figure>
+<figure>
+    <img src="docs/wireframes/Contact.png"
+         alt="A wireframe for the contact page">
+    <figcaption>A wireframe for the contact page on mobile, tablet & browser</figcaption>
+</figure>
 
 ## Technologies
 
