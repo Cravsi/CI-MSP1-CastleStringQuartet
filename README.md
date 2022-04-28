@@ -68,19 +68,19 @@ As the site owner, I want to:
 ### Wireframes
 <details>
     <summary>**Home Page**</summary>
-    ![Home Page Wireframe](/docs/wireframes/Home-Page.png)
+    ![Home Page Wireframe](docs/wireframes/Home-Page.png)
 </details>
 <details>
     <summary>**Home Page**</summary>
-    ![About Wireframe](/docs/wireframes/About.png)
+    ![About Wireframe](docs/wireframes/About.png)
 </details>
 <details>
     <summary>**Home Page**</summary>
-    ![Contact Wireframe](/docs/wireframes/Contact.png)
+    ![Contact Wireframe](docs/wireframes/Contact.png)
 </details>
 <details>
     <summary>**Home Page**</summary>
-    ![Media Wireframe](/docs/wireframes/Media.png)
+    ![Media Wireframe](docs/wireframes/Media.png)
 </details>
 
 ## Technologies
