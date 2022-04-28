@@ -66,26 +66,34 @@ As the site owner, I want to:
 ### Structure
 
 ### Wireframes
-<figure>
-    <img src="docs/wireframes/Home-Page.png"
-         alt="A wireframe for the home page">
-    <figcaption>A wireframe for the home page on mobile, tablet & browser</figcaption>
-</figure>
-<figure>
-    <img src="docs/wireframes/Media.png"
-         alt="A wireframe for the media or gallery page">
-    <figcaption>A wireframe for the media or gallery page on mobile, tablet & browser</figcaption>
-</figure>
-<figure>
-    <img src="docs/wireframes/About.png"
-         alt="A wireframe for the about page">
-    <figcaption>A wireframe for the about page on mobile, tablet & browser</figcaption>
-</figure>
-<figure>
-    <img src="docs/wireframes/Contact.png"
-         alt="A wireframe for the contact page">
-    <figcaption>A wireframe for the contact page on mobile, tablet & browser</figcaption>
-</figure>
+<details><summary>Home-Page</summary>
+    <figure>
+        <img src="docs/wireframes/Home-Page.png"
+            alt="A wireframe for the home page">
+        <figcaption>A wireframe for the home page on mobile, tablet & browser</figcaption>
+    </figure>
+</details>
+<details><summary>Media-Page</summary>
+    <figure>
+        <img src="docs/wireframes/Media.png"
+            alt="A wireframe for the media or gallery page">
+        <figcaption>A wireframe for the media or gallery page on mobile, tablet & browser</figcaption>
+    </figure>
+</details>
+<details><summary>About-Page</summary>
+    <figure>
+        <img src="docs/wireframes/About.png"
+            alt="A wireframe for the about page">
+        <figcaption>A wireframe for the about page on mobile, tablet & browser</figcaption>
+    </figure>
+</details>
+<details><summary>Contact-Page</summary>
+    <figure>
+        <img src="docs/wireframes/Contact.png"
+            alt="A wireframe for the contact page">
+        <figcaption>A wireframe for the contact page on mobile, tablet & browser</figcaption>
+    </figure>
+</details>
 
 ## Technologies
 
