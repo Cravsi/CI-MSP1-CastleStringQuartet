@@ -1,0 +1,47 @@
+/* Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,300&family=Oswald:wght@300;400;600&display=swap');
+/* PARAGRAPH FONT FAMILY RULES - font-family: 'Open Sans', sans-serif; */
+/* HEADING FONT FAMILY RULES - font-family: 'Oswald', sans-serif;  */
+
+/* Element Styles -------------------------------- */
+body {
+   overflow-x: hidden; 
+   font-family: 'Open Sans', sans-serif;
+}
+
+h1 ,h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+}
+/* End of Element Styles */
+
+/* Font Helper Classes ----------------------------- */
+.open-font {
+    font-family: 'Open Sans', sans-serif;
+    font-weight:400
+}
+
+.open-font-light {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+.oswald-font-light {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+.oswald-font {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+
+.oswald-font-bold {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+}
+/* End of font helper classes */
+
+.header {
+    min-width:100%;
+    height:3rem;
+}
