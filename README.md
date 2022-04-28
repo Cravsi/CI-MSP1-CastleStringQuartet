@@ -35,5 +35,22 @@
 ### User Stories
 
 #### First-Time User
+As a first-time user, I want to:
+1. Know more about the quartet members.
+2. Know what others think about the quartet.
+3. Know what sort of music the quartet plays.
+4. What type of events the quartet performs at.
+5. Get in contact with the quartet.
 
 #### Returning User
+As a returning user, I want to:
+1. Quickly get in contact with the quartet.
+2. See the recent events the quartet performed at.
+3. Find the quartet on social media.
+4. Leave a message or suggestion for the quartet.
+
+### Site Owner
+As the site owner, I want to:
+1. Provide information about the quartet to users.
+2. Enable site users to get a good understanding on what the quartet likes to play.
+3. Enable site user to quickly get in contact with the quartet.
