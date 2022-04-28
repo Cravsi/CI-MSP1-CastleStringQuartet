@@ -54,3 +54,45 @@ As the site owner, I want to:
 1. Provide information about the quartet to users.
 2. Enable site users to get a good understanding on what the quartet likes to play.
 3. Enable site user to quickly get in contact with the quartet.
+
+## Design
+
+### Design Choice
+
+### Colour Pallette
+
+### Fonts
+
+### Structure
+
+### Wireframes
+<details>
+    <summary>**Home Page**</summary>
+    ![Home Page Wireframe](/docs/wireframes/Home-Page.png)
+</details>
+<details>
+    <summary>**Home Page**</summary>
+    ![About Wireframe](/docs/wireframes/About.png)
+</details>
+<details>
+    <summary>**Home Page**</summary>
+    ![Contact Wireframe](/docs/wireframes/Contact.png)
+</details>
+<details>
+    <summary>**Home Page**</summary>
+    ![Media Wireframe](/docs/wireframes/Media.png)
+</details>
+
+## Technologies
+
+### Langauges
+
+### Frameworks & Tools
+
+## Features
+
+## Testing
+
+## Deployment
+
+## Credits
