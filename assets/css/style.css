@@ -85,6 +85,7 @@ h1 ,h2, h3, h4, h5, h6 {
 header {
     min-width:100%;
     height:6.25rem;
+    border-bottom: 4px solid #4493C7;
 }
 
 #header-common {
@@ -119,14 +120,14 @@ header {
     border-radius: 50%;
 }
 
-#header-line{
+/* #header-line{
     height: 0.25rem;
     clear:both;
     width: 100vw;
 
     position: absolute;
     top:6.25rem;
-}
+} */
 
 #menu {
     max-width:45vw;
