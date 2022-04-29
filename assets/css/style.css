@@ -83,7 +83,9 @@ h1 ,h2, h3, h4, h5, h6 {
 
 /* Header Styling -------------------------------- */
 header {
-    min-width:100%;    
+    min-width:100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);    
 }
 
 #navigation{
@@ -98,6 +100,7 @@ header {
     height:4rem;
     width:4rem;
     text-align: center;
+    margin-left: 1rem;
     
     border-radius: 50%;
     padding: 0.1rem;
@@ -105,7 +108,6 @@ header {
     
     position:relative;
     vertical-align: middle;
-    left: 2rem;
 }
 
 #logo-image {
@@ -117,22 +119,19 @@ header {
     border-radius: 50%;
 }
 
-/* #header-line{
-    height: 0.25rem;
-    clear:both;
-    width: 100vw;
-
-    position: absolute;
-    top:6.25rem;
-} */
+#title-box {
+    position: relative;
+    float:left;
+}
 
 #menu {
-    max-width:45vw;
-    float: left;
+    flex-grow: 0;
+    right:0;
     text-transform: uppercase;
-    margin: 0 auto;
+    margin: 0;
     position:relative;
     right: 1rem;
+    padding-left:0;
 }
 
 #menu a {
