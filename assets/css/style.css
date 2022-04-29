@@ -14,6 +14,7 @@ body {
    overflow-x: hidden; 
    font-family: 'Open Sans', sans-serif;
    min-height: 100vh;
+   background-color:#F0F1F7
 }
 
 h1 ,h2, h3, h4, h5, h6 {
@@ -70,7 +71,7 @@ h1 ,h2, h3, h4, h5, h6 {
 }
 
 .blue-bg {
-    background-color: #0A23FF;
+    background-color: #4493C7;
 }
 
 /* End of Helper Color Classes */
@@ -79,12 +80,6 @@ h1 ,h2, h3, h4, h5, h6 {
 .text-center {
     text-align:center;
 }
-
-/* .vert-center {
-    position: relative;
-    vertical-align: middle;
-} */
-
 
 /* Header Styling -------------------------------- */
 header {
@@ -101,13 +96,6 @@ header {
     justify-content: space-between;
 }
 
-#header-common img {
-    height:4rem;
-    width:4rem;
-    border-radius:50%
-}
-
-
 #logo {
     height:4rem;
     width:4rem;
@@ -120,6 +108,24 @@ header {
     position:relative;
     vertical-align: middle;
     left: 2rem;
+}
+
+#logo-image {
+    max-width: 100%;
+    max-height: 100%;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
+#header-line{
+    height: 0.25rem;
+    clear:both;
+    width: 100vw;
+
+    position: absolute;
+    top:6.25rem;
 }
 
 #menu {
