@@ -45,19 +45,23 @@ h1 ,h2, h3, h4, h5, h6 {
 
 /* Helper Colour Classes --------------------------- */
 .black-bg{
-    background-color: #191410;
+    background-color: #00000E;
 }
 
 .black-font{
-    color: #191410;
+    color: #00000E;
 }
 
 .white-bg{
-    background-color: #F7F3F3;
+    background-color: #F0F1F7;
 }
 
 .white-font{
-    color:#F7F3F3;
+    color:#F0F1F7;
+}
+
+.blue-bg {
+    background-color: #0A23FF;
 }
 
 /* End of Helper Color Classes */
@@ -66,7 +70,6 @@ h1 ,h2, h3, h4, h5, h6 {
 header {
     min-width:100%;
     height:10rem;
-    background-color:#191410
 }
 
 header img {
@@ -75,13 +78,13 @@ header img {
     border-radius:50%
 }
 
-.logo {
+#logo {
     height:6rem;
     width:6rem;
     
     border-radius: 50%;
     padding: 0.25rem;
-    border: 1px solid #F7F3F3;
+    border: 1px solid #F0F1F7;
     
     position:relative;
     left:2rem;
