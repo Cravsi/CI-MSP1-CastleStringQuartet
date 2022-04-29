@@ -51,8 +51,6 @@ h1 ,h2, h3, h4, h5, h6 {
 }
 /* End of font helper classes */
 
-
-
 /* Helper Colour Classes --------------------------- */
 .black-bg{
     background-color: #00000E;
@@ -83,22 +81,27 @@ h1 ,h2, h3, h4, h5, h6 {
 
 /* Header Styling -------------------------------- */
 header {
-    min-width:100%;
-    padding-right: var(--bs-gutter-x,.75rem);
-    padding-left: var(--bs-gutter-x,.75rem);    
+    min-width:100%; 
 }
 
 #navigation{
     border-bottom: 4px solid #4493C7;
     background-color: #00000E;
+}
+
+nav > div {
+    min-width: 100%;
+    padding-right: .75rem;
+    padding-left: .75rem;
     display: flex;
     flex-wrap: wrap; 
-    justify-content: space-between;
+    justify-content: left;
     align-items: center;
 }
+
 #logo {
-    height:4rem;
-    width:4rem;
+    height:3rem;
+    width:3rem;
     text-align: center;
     margin-left: 1rem;
     
@@ -122,16 +125,17 @@ header {
 #title-box {
     position: relative;
     float:left;
+    margin-left:1rem;
+}
+
+#title-box > h4{
+    margin-bottom: 0;
 }
 
 #menu {
     flex-grow: 0;
-    right:0;
-    text-transform: uppercase;
-    margin: 0;
-    position:relative;
-    right: 1rem;
-    padding-left:0;
+    text-transform: capitalize;
+    padding-left:2rem;
 }
 
 #menu a {
