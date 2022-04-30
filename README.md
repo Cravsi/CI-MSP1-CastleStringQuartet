@@ -108,6 +108,6 @@ As the site owner, I want to:
 ## Deployment
 
 ## Credits
-
+Uncredited images have been provided for use by Castle String Quartet
 ### Images
 1. [hero-image-4](assets/images/hero-image-4.jpg): Photo by <a href="https://www.pexels.com/@goumbik/">Lukas</a> on <a href="https://www.pexels.com/">Pexels</a>

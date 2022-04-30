@@ -148,3 +148,15 @@ nav > div {
     display:inline-block;
     padding: 0 3px;
 }
+
+/* INDEX PAGE STYLING -------------------------------- */
+.carousel-item{
+    max-width: 100%;
+    max-height: 50vh;
+    position: relative;
+    
+}
+
+.carousel-item img {
+    object-fit:contain;
+}
