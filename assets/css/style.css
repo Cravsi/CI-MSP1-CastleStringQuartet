@@ -162,3 +162,21 @@ nav > div {
 #blurb > h2 {
     padding-top: 3vh
 }
+
+.blurb-grid {
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
+    grid-auto-rows: minmax(5rem, auto);
+    grid-gap: 0.25rem;
+    grid-template-areas:
+        "heading heading heading"
+        ". text .";
+}
+
+.grid-text {
+    grid-area: text;
+}
+
+.grid-heading {
+    grid-area: heading;
+}
