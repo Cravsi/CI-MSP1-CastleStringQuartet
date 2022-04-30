@@ -159,8 +159,8 @@ nav > div {
     padding: 0  1rem;;
 }
 
-#blurb > h2 {
-    padding-top: 3vh
+#blurb h2 {
+    padding-top: 3vh;
 }
 
 .blurb-grid {
@@ -179,4 +179,10 @@ nav > div {
 
 .grid-heading {
     grid-area: heading;
+}
+
+@media only screen and (max-width:786px) {
+    .blurb-grid {
+        grid-template-columns: 1fr 15fr 1fr;;
+    }
 }
