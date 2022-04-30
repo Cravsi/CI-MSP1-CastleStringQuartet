@@ -152,11 +152,6 @@ nav > div {
 /* INDEX PAGE STYLING -------------------------------- */
 .carousel-item{
     max-width: 100%;
-    max-height: 50vh;
-    position: relative;
-    
-}
+    max-height: 60vh;
 
-.carousel-item img {
-    object-fit:contain;
 }
