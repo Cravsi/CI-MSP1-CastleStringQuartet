@@ -22,6 +22,11 @@ h1 ,h2, h3, h4, h5, h6 {
     letter-spacing: 0.1875rem;
 }
 
+hr {
+    width: 75%;
+    margin: 0 12.5% 0 12.5% !important;
+}
+
 /* End of Element Styles */
 
 /* Font Helper Classes ----------------------------- */
@@ -70,6 +75,10 @@ h1 ,h2, h3, h4, h5, h6 {
 
 .blue-bg {
     background-color: #4493C7;
+}
+
+.blue-font {
+    color: #4493C7;
 }
 
 /* End of Helper Color Classes */
@@ -181,8 +190,43 @@ nav > div {
     grid-area: heading;
 }
 
+.performance-grid {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    
+    grid-template-areas:
+        "heading"
+        "video-1"
+        "text-1"
+        "video-2"
+        "text-2";
+}
+
+.performance-video-1 {
+    grid-area: video-1
+}
+
+.performance-video-2 {
+    grid-area: video-2
+}
+
+.performance-text-1 {
+    grid-area: text-1
+}
+
+.performance-text-2 {
+    grid-area: text-2
+}
+
 @media only screen and (max-width:786px) {
     .blurb-grid {
         grid-template-columns: 1fr 15fr 1fr;;
+    }
+
+    .performance-grid {
+        grid-template-areas: 
+            "heading heading"
+            "video-1 text-1"
+            "text-2 video-2";
     }
 }
