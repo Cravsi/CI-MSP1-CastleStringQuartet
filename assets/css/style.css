@@ -108,7 +108,7 @@ nav > div {
     align-items: center;
 }
 
-#logo {
+.logo {
     height:3rem;
     width:3rem;
     text-align: center;
@@ -122,7 +122,7 @@ nav > div {
     vertical-align: middle;
 }
 
-#logo-image {
+.logo-image {
     max-width: 100%;
     max-height: 100%;
     position: relative;
