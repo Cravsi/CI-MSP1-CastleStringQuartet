@@ -111,3 +111,5 @@ As the site owner, I want to:
 Uncredited images have been provided for use by Castle String Quartet
 ### Images
 1. [hero-image-4](assets/images/hero-image-4.jpg): Photo by <a href="https://www.pexels.com/@goumbik/">Lukas</a> on <a href="https://www.pexels.com/">Pexels</a>
+2. [performance-video-1](https://www.youtube.com/watch?v=i2nsvMQvw60&t=5s): Video by <a href="http://www.stringspace.com.au/">The Stringspace Quartet</a>.
+3. [performance-video-2 ](https://www.youtube.com/watch?v=es_3F3TLJS0&t=2s): Video by <a href="www.theweddingstringquartet.com">The Wedding String Quartet</a>.
