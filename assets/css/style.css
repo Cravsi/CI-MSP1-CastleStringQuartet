@@ -248,3 +248,43 @@ nav > div {
             "text-2 video-2";
     }
 }
+
+/* Footer Styling --------------------------------------------- */
+footer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+
+    border-top: 0.5rem solid #4493C7;
+    min-height: 20vh;
+}
+
+.footer-list {
+    list-style: none;
+    padding: 0.5rem;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer-list > li, .footer-list p {
+    padding: 0 2rem;
+    margin: 0;
+}
+
+#footer-logo {
+    margin: 1rem;
+}
+#footer-logo > .logo {
+    border: 1px solid #00000E;
+    margin: 0;
+}
+
+a > i {
+    font-size: 160%;
+    color: #00000E;
+}
