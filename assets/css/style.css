@@ -255,24 +255,30 @@ footer {
     justify-content: space-around;
     flex-wrap: wrap;
     align-items: center;
+    flex-direction: column;
+    flex-grow: 1;
 
     border-top: 0.5rem solid #4493C7;
     min-height: 20vh;
 }
 
+.footer-list > li {
+    padding: 0 3vw !important;
+}
+
 .footer-list {
     list-style: none;
-    padding: 0.5rem;
+    padding: 1vw;
 
     display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
+    flex-direction: row;
+    justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
 }
 
 .footer-list > li, .footer-list p {
-    padding: 0 2rem;
+    padding: 0;
     margin: 0;
 }
 
@@ -287,4 +293,11 @@ footer {
 a > i {
     font-size: 160%;
     color: #00000E;
+}
+
+@media screen and (min-width: 768px){
+    footer{
+        flex-direction: row;
+
+    }
 }
