@@ -98,15 +98,16 @@ header {
     background-color: #00000E;
 }
 
-nav > div {
-    min-width: 100%;
-    padding-right: .75rem;
-    padding-left: .75rem;
-    display: flex;
-    flex-wrap: wrap; 
-    justify-content: left;
-    align-items: center;
+.header-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+    grid-template-areas: 
+        "head-logo head-heading head-menu";
 }
+
+.header-logo        {grid-area: head-logo;}
+.header-heading     {grid-area: head-heading;}
+.header-grid-menu   {grid-area: head-menu}
 
 .logo {
     height:3rem;
