@@ -21,7 +21,7 @@ body {
    overflow-x: hidden; 
    font-family: 'Open Sans', sans-serif;
    min-height: 100vh;
-   background-color:#F0F1F7
+   background-color:var(--white);
 }
 
 h1 ,h2, h3, h4, h5, h6 {
@@ -65,27 +65,27 @@ hr {
 
 /* Helper Colour Classes --------------------------- */
 .black-bg{
-    background-color: #00000E;
+    background-color: var(--black);
 }
 
 .black-font{
-    color: #00000E;
+    color:  var(--black);
 }
 
 .white-bg{
-    background-color: #F0F1F7;
+    background-color:  var(--white);
 }
 
 .white-font{
-    color:#F0F1F7;
+    color:var(--white);
 }
 
 .blue-bg {
-    background-color: #4493C7;
+    background-color: var(--blue);
 }
 
 .blue-font {
-    color: #4493C7;
+    color: var(--blue);
 }
 
 /* End of Helper Color Classes */
@@ -101,8 +101,8 @@ header {
 }
 
 #navigation{
-    border-bottom: 4px solid #4493C7;
-    background-color: #00000E;
+    border-bottom: 4px solid var(--blue);
+    background-color: var(--black);
 }
 
 .header-grid {
@@ -130,7 +130,7 @@ header {
     
     border-radius: 50%;
     padding: 0.1rem;
-    border: 1px solid #F0F1F7;
+    border: 1px solid var(--white);
     
     position:relative;
     vertical-align: middle;
@@ -223,7 +223,7 @@ header {
 }
 
 #performance {
-    border-top: .25rem solid #4493C7;
+    border-top: .25rem solid var(--blue);
 }
 
 #performance h3 {
@@ -251,7 +251,7 @@ header {
 }
 
 .performance-video-1, .performance-video-2 {
-    border-top: 0.125rem solid #4493C7 !important; 
+    border-top: 0.125rem solid var(--blue) !important; 
 }
 
 .performance-text-1 {
@@ -290,7 +290,7 @@ footer {
     flex-direction: column;
     flex-grow: 1;
 
-    border-top: 0.5rem solid #4493C7;
+    border-top: 0.5rem solid var(--blue);
     padding-top: 1rem;
     min-height: 20vh;
 }
@@ -326,13 +326,13 @@ footer {
 }
 
 #footer-logo > .logo {
-    border: 1px solid #00000E;
+    border: 1px solid var(--black);
     margin: 0;
 }
 
 a > i {
     font-size: 160%;
-    color: #00000E;
+    color: var(--black);
 }
 
 @media screen and (min-width: 768px){
