@@ -3,6 +3,13 @@
 /* PARAGRAPH FONT FAMILY RULES - font-family: 'Open Sans', sans-serif; */
 /* HEADING FONT FAMILY RULES - font-family: 'Oswald', sans-serif;  */
 
+/* ROOT ----------------------------------------- */
+:root {
+    --blue: #4493C7;
+    --black: #00000E;
+    --white: #F0F1F7;
+}
+
 /* Element Styles -------------------------------- */
 * {
     margin: 0;
