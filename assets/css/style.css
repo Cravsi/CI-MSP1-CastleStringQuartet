@@ -27,14 +27,13 @@ body {
     background-color: var(--white);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Oswald', sans-serif;
     letter-spacing: 0.1875rem;
+}
+
+header {
+    min-width: 100%;
 }
 
 hr {
@@ -45,28 +44,15 @@ hr {
 /* End of Element Styles */
 
 /* Font Helper Classes */
-.open-font {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400
-}
-
-.open-font-light {
-    font-family: 'Open Sans', sans-serif;
+#font-w300 {
     font-weight: 300;
 }
 
-.oswald-font-light {
-    font-family: 'Oswald', sans-serif;
-    font-weight: 300;
-}
-
-.oswald-font {
-    font-family: 'Oswald', sans-serif;
+#font-w400 {
     font-weight: 400;
 }
 
-.oswald-font-bold {
-    font-family: 'Oswald', sans-serif;
+#font-w600 {
     font-weight: 600;
 }
 
@@ -105,10 +91,6 @@ hr {
 }
 
 /* Header Styling */
-header {
-    min-width: 100%;
-}
-
 #navigation {
     border-bottom: 4px solid var(--blue);
     background-color: var(--black);
