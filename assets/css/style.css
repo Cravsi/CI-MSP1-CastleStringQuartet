@@ -16,7 +16,12 @@
     border: none;
 }
 
+html {
+    font-size: 62.5%;
+}
+
 body {
+    font-size: 1.6rem;
     font-family: 'Open Sans', sans-serif;
     min-height: 100vh;
     background-color: var(--white);
