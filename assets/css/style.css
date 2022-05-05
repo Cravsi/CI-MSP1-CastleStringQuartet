@@ -115,21 +115,24 @@ hr {
     align-items: center;
 }
 
-.header-heading {
-    grid-area: head-heading;
-}
-
 .header-grid-item {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+.header-heading {
+    grid-area: head-heading;
+
+    display: flex;
+    justify-content: left;
+}
+
 .header-grid-menu {
     grid-area: head-menu;
 
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 .header-grid-logo {
@@ -162,6 +165,7 @@ hr {
 #title-box {
     position: relative;
     float: left;
+    overflow-wrap: normal;
 }
 
 #title-box>h2 {
@@ -174,6 +178,7 @@ hr {
     text-transform: capitalize;
     padding-left: 2rem;
     min-width: 250px !important;
+    overflow-wrap: normal;
 }
 
 #menu a {
