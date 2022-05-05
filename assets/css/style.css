@@ -41,6 +41,8 @@ hr {
     margin: 0 12.5% 0 12.5% !important;
 }
 
+
+
 /* End of Element Styles */
 
 /* Font Helper Classes */
@@ -257,6 +259,11 @@ hr {
 
 .performance-grid-item {
     text-align: center;
+}
+
+.video {
+    width:100% !important;
+    aspect-ratio: 16/9;
 }
 
 @media only screen and (max-width:786px) {
