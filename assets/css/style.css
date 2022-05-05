@@ -117,7 +117,6 @@ hr {
 
 .header-grid-item {
     display: flex;
-    justify-content: center;
     align-items: center;
 }
 
@@ -125,7 +124,7 @@ hr {
     grid-area: head-heading;
 
     display: flex;
-    justify-content: left;
+    justify-content: left !important;
 }
 
 .header-grid-menu {
@@ -151,6 +150,8 @@ hr {
     position: relative;
     left: 4vw;
     top:2.2rem;
+    display: flex;
+    justify-content: center;
 }
 
 .logo-image {
@@ -171,6 +172,7 @@ hr {
 #title-box>h2 {
     margin-top: 1rem;
     margin-bottom: 0;
+    margin-left: 2.3rem;
 }
 
 #menu {
@@ -179,6 +181,9 @@ hr {
     padding-left: 2rem;
     min-width: 250px !important;
     overflow-wrap: normal;
+
+    display: flex;
+    justify-content: center;
 }
 
 #menu a {
@@ -271,23 +276,6 @@ hr {
     aspect-ratio: 16/9;
 }
 
-@media only screen and (max-width:786px) {
-    .blurb-grid {
-        grid-template-columns: 1fr 15fr 1fr;
-        ;
-    }
-}
-
-@media only screen and (min-width:786px) {
-    .performance-grid {
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-areas:
-            "heading heading"
-            "video-1 text-1"
-            "text-2 video-2";
-    }
-}
-
 /* Footer Styling --------------------------------------------- */
 footer {
     display: flex;
@@ -342,6 +330,56 @@ a>i {
     font-size: 160%;
     color: var(--black);
 }
+
+/* HEADER MEDIA QUERIES */
+
+@media only screen and (max-width:372px) {
+    .header-grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-auto-rows: minmax(5rem, auto);
+        grid-template-areas:
+            "head-logo"
+            "head-heading"
+            "head-menu";
+    }
+
+    .header-logo {
+        grid-area: head-logo;
+    
+        display: flex;
+        justify-content: center !important;
+        align-items: center;
+        position: relative;
+        left: none;
+    }
+
+    .header-heading {
+        grid-area: head-heading;
+        display: flex;
+        justify-content: center !important;
+    }
+
+    .header-grid-menu {
+        grid-area: head-menu;
+        display: flex;
+        justify-content: left;
+    }
+}
+
+/* INDEX PAGE MEDIA QUERIES */
+
+
+@media only screen and (min-width:786px) {
+    .performance-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-areas:
+            "heading heading"
+            "video-1 text-1"
+            "text-2 video-2";
+    }
+}
+/* FOOTER MEDIA QUERIES */
 
 @media screen and (min-width: 768px) {
     footer {
