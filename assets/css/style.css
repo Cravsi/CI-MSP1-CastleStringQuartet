@@ -104,7 +104,7 @@ hr {
     grid-auto-rows: minmax(5rem, auto);
     grid-template-areas:
         "head-logo head-heading"
-        "head-menu head-menu";
+        "head-logo head-menu";
 }
 
 .header-logo {
