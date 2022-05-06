@@ -241,7 +241,7 @@ hr {
 
 .performance-grid {
     display: grid;
-    grid-template-rows: 4rem repeat(2, 1fr);
+    grid-template-rows: 4rem repeat(2, auto 15rem);
     grid-gap: 0.5rem;
     grid-template-areas:
         "heading"
@@ -271,8 +271,10 @@ hr {
     grid-area: text-2
 }
 
-.performance-grid-item {
-    text-align: center;
+.performance-grid-item:not(:first-child) {
+    display: flex;
+    align-items: center;
+    padding: 1rem 10%
 }
 
 .video {
