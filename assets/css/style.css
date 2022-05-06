@@ -143,15 +143,13 @@ hr {
     width: 5rem;
     text-align: center;
 
+    position: relative;
+    left: 50%;
+
     border-radius: 50%;
     padding: 0.1rem;
     border: 1px solid var(--white);
-
-    position: relative;
-    left: 4vw;
-    top:2.2rem;
-    display: flex;
-    justify-content: center;
+    margin-top:2.2rem;
 }
 
 .logo-image {
@@ -210,12 +208,14 @@ hr {
 
 .blurb-grid {
     display: grid;
-    grid-template-columns: 1fr 5fr 1fr;
+    grid-template-columns: 1fr 10fr 1fr;
     grid-auto-rows: minmax(5rem, auto);
     grid-gap: 0.25rem;
     grid-template-areas:
         "heading heading heading"
         ". text .";
+
+    margin-bottom: 1rem;
 }
 
 .grid-text {
@@ -344,14 +344,8 @@ a>i {
             "head-menu";
     }
 
-    .header-logo {
+    .header-grid-logo {
         grid-area: head-logo;
-    
-        display: flex;
-        justify-content: center !important;
-        align-items: center;
-        position: relative;
-        left: none;
     }
 
     .header-heading {
@@ -365,6 +359,7 @@ a>i {
         display: flex;
         justify-content: left;
     }
+
 }
 
 /* INDEX PAGE MEDIA QUERIES */
