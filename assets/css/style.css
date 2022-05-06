@@ -46,7 +46,7 @@ hr {
 /* End of Element Styles */
 
 /* Font Helper Classes */
-#font-w300 {
+.font-w300 {
     font-weight: 300;
 }
 
@@ -54,7 +54,7 @@ hr {
     font-weight: 400;
 }
 
-#font-w600 {
+.font-w600 {
     font-weight: 600;
 }
 

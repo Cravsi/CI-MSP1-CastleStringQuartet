@@ -113,4 +113,5 @@ Uncredited images have been provided for use by Castle String Quartet
 1. [hero-image-4](assets/images/hero-image-4.jpg): Photo by <a href="https://www.pexels.com/@goumbik/">Lukas</a> on <a href="https://www.pexels.com/">Pexels</a>
 2. [performance-video-1](https://www.youtube.com/watch?v=i2nsvMQvw60&t=5s): Video by <a href="http://www.stringspace.com.au/">The Stringspace Quartet</a>.
 3. [performance-video-2 ](https://www.youtube.com/watch?v=es_3F3TLJS0&t=2s): Video by <a href="www.theweddingstringquartet.com">The Wedding String Quartet</a>.
-3. [corporate-functiom ](assets/images/corp-function.jpg):Photo by <a href="https://www.pexels.com/@pietrozj/">Pietro Jeng</a> on <a href="https://www.pexels.com/">Pexels</a>.
+3. [corporate-function ](assets/images/corp-function.jpg):Photo by <a href="https://www.pexels.com/@pietrozj/">Pietro Jeng</a> on <a href="https://www.pexels.com/">Pexels</a>.
+3. [party](assets/images/party.jpg):Photo by <a href="https://www.pexels.com/@expect-best-79873/">Expect Best</a> on <a href="https://www.pexels.com/">Pexels</a>.
