@@ -254,8 +254,7 @@ hr {
     grid-area: video-2
 }
 
-.performance-video-1,
-.performance-video-2 {
+.performance-video-1, .performance-video-2 {
     border-top: 0.125rem solid var(--blue) !important;
 }
 
@@ -366,6 +365,10 @@ a>i {
 
 
 @media only screen and (min-width:786px) {
+    .blurb-grid {
+        grid-template-columns: 2fr 6fr 2fr;
+    }
+    
     .performance-grid {
         grid-template-columns: repeat(2, 1fr);
         grid-template-areas:
