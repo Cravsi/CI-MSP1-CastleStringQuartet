@@ -92,6 +92,11 @@ hr {
     text-align: center;
 }
 
+.img-pos {
+    width: 100vw;
+    aspect-ratio: 16/9;
+}
+
 /* Header Styling */
 #navigation {
     border-bottom: 4px solid var(--blue);
@@ -282,6 +287,56 @@ hr {
     aspect-ratio: 16/9;
 }
 
+#information-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 1rem;
+    width: 100vw;
+    grid-template-areas: 
+        "corp-img"
+        "corp-txt"
+        "party-img"
+        "party-txt"
+        "wed-img"
+        "wed-txt"
+        "about";
+}
+
+#corp-img {
+    grid-area: corp-img;
+}
+
+#corp-txt {
+    grid-area: corp-txt;
+}
+
+#party-img {
+    grid-area: party-img;
+}
+
+#party-txt {
+    grid-area: party-txt;
+}
+
+#wed-img {
+    grid-area: wed-img;
+}
+
+#wed-txt {
+    grid-area: wed-txt;
+}
+
+#about {
+    grid-area: about;
+}
+
+.information-img {
+    border-radius: 15%;
+    border: 0.1rem solid var(--blue);
+    padding: 1rem;
+
+}
+
 /* Footer Styling --------------------------------------------- */
 footer {
     display: flex;
@@ -342,7 +397,7 @@ a>i {
 @media only screen and (max-width:372px) {
     .header-grid {
         grid-template-columns: 1fr;
-        grid-auto-rows: minmax(5rem, auto);
+        grid-auto-rows: 5rem 5rem;
         grid-template-areas:
             "head-logo"
             "head-heading"
@@ -394,7 +449,7 @@ a>i {
     }
     
     .performance-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: 1fr 1fr;
         grid-template-areas:
             "heading heading"
             "video-1 text-1"
