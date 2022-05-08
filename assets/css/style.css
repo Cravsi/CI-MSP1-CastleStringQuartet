@@ -49,6 +49,7 @@ br {
 /* End of Element Styles */
 
 /* Font Helper Classes */
+
 .font-w300 {
     font-weight: 300;
 }
@@ -95,6 +96,7 @@ br {
 /* End of Helper Color Classes */
 
 /* Postitioning Helper Classes */
+
 .text-center {
     text-align: center;
 }
@@ -123,6 +125,7 @@ br {
 /* End of Positioning Helper Classes */
 
 /* Header Styling */
+
 #navigation {
     border-bottom: 4px solid var(--blue);
     background-color: var(--black);
@@ -227,6 +230,7 @@ br {
 }
 
 /* INDEX PAGE STYLING */
+
 #hero-image > img {
     aspect-ratio: 16/9;
     width: 100%;
@@ -381,6 +385,7 @@ br {
     display: flex;
     flex-direction: column-reverse;
     align-items: center;
+    margin-bottom: 1rem;
 }
 
 .players-txt p {
@@ -392,7 +397,7 @@ br {
     padding-left: 1.5rem;
 }
 
-/* Footer Styling --------------------------------------------- */
+/* Footer Styling */
 footer {
     display: flex;
     justify-content: space-around;
@@ -512,9 +517,13 @@ a>i {
     }
 }
 
-@media only screen and (min-width:640px) {
+@media only screen and (min-width:730px) {
     .player {
         flex-direction: row-reverse;
+    }
+
+    .player:nth-of-type(2n) {
+        flex-direction: row;
     }
 
     .players-txt p {
@@ -522,11 +531,17 @@ a>i {
         margin-left: -35%;
     }
     
-    .players-txt p:nth-of-type(2) {
-        padding: 5% 5% 3rem 35%;
-        margin-left: -35%;
+    .player-reverse {
+        padding: 3rem 35% 3rem 15% !important;
+        margin-right: -35% !important;
+        margin-left: 0 !important;
+    }
+
+    .text-right {
+        text-align:right;
     }
 }
+
 /* FOOTER MEDIA QUERIES */
 
 @media screen and (min-width: 768px) {
