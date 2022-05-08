@@ -470,6 +470,15 @@ form textarea{
     height: 4rem;
 }
 
+#contact-page {
+    display: flex;
+    justify-content: center;
+}
+
+#contact-form {
+    max-width: 50rem;
+}
+
 #contact-form, #contact-info{
     margin: 3rem;
     padding: 1rem;

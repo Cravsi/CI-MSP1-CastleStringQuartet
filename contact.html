@@ -45,41 +45,33 @@
 
         <main>  
             <!-- Contact Form -->
-            <div id="contact-form">
-                <h4>For any questions, comment or enquiries please contact us below.</h4>
-                <form action="https://formdump.codeinstitute.net" method="post">
-                    <div>
-                        <label for="name" class="form-label">Name:</label>
-                        <input type="name" id="name" name="name" required class="form-input">
-                    </div>
-                    <div>
-                        <label for="email" class="form-label">E-mail:</label>
-                        <input type="email" id="email" name="email" required class="form-input">
-                    </div>
-                    <div>
-                        <label for="phone" class="form-label">Phone Number:</label>
-                        <input type="tel" id="phone" name="phone" class="form-input" aria-describedby="gdpr-notice">
-                        <div id="gdpr-notice">
-                            <p class="font-w300">You're name and contact detail will remain private and not be shared with anyone else</p>
+            <div id="contact-page">
+                <div id="contact-form">
+                    <h4>For any questions, comment or enquiries please contact us below.</h4>
+                    <form action="https://formdump.codeinstitute.net" method="post">
+                        <div>
+                            <label for="name" class="form-label">Name:</label>
+                            <input type="name" id="name" name="name" required class="form-input">
                         </div>
-                    </div>
-                    <div>
-                        <label for="message" class="form-label">Message:</label>
-                        <textarea id="message" name="message" placeholder="Your Message" 
-                        maxlength="250" required class="form-input"></textarea>
-                    </div>
-                    <button type="submit" class="font-w600">Submit!</button>
-                </form>
-            </div>
-            <!-- Location on Map -->
-            <div id="map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27071.870928658675!2d-6.259299549791946!3d53.45784598619013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486710e443cd3c35%3A0xa00c7a997317060!2sSwords%2C%20Co.%20Dublin!5e1!3m2!1sen!2sie!4v1652041982350!5m2!1sen!2sie" 
-                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-            <!-- Contact Information -->
-            <div id="contact-info">
-                <h4></h4>
+                        <div>
+                            <label for="email" class="form-label">E-mail:</label>
+                            <input type="email" id="email" name="email" required class="form-input">
+                        </div>
+                        <div>
+                            <label for="phone" class="form-label">Phone Number:</label>
+                            <input type="tel" id="phone" name="phone" class="form-input" aria-describedby="gdpr-notice">
+                            <div id="gdpr-notice">
+                                <p class="font-w300">You're name and contact detail will remain private and not be shared with anyone else</p>
+                            </div>
+                        </div>
+                        <div>
+                            <label for="message" class="form-label">Message:</label>
+                            <textarea id="message" name="message" placeholder="Your Message" 
+                            maxlength="250" required class="form-input"></textarea>
+                        </div>
+                        <button type="submit" class="font-w300">Submit!</button>
+                    </form>
+                </div>
             </div>
         </main>
 
