@@ -477,6 +477,10 @@ form textarea{
     border: 1px solid var(--black);
 }
 
+#contact-form h4 {
+    padding: 0 1rem;
+}
+
 .form-label {
     padding: 2rem 0 0.4rem 1rem;
     font-family: "Oswald", sans-serif;
@@ -493,6 +497,10 @@ form textarea{
     width: 90%;
     font-size: x-small;
     padding-left: 2rem;
+}
+
+#message {
+    resize: none;
 }
 
 /* HEADER MEDIA QUERIES */
