@@ -361,12 +361,8 @@ br {
     grid-area: wed-txt;
 }
 
-.info-img-container {
-    border-radius: 10%;
-}
-
 .info-img-container > img {
-    border-radius: 5%;
+    border-radius: 2rem;
     border: 0.2rem solid var(--blue);
     box-shadow: 0px 0px 0.5rem 0px rgb(0 0 0 / 50%)
 }

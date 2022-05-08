@@ -118,3 +118,4 @@ Uncredited images have been provided for use by Castle String Quartet
 6. [wedding](assets/images/wedding.jpg):Photo by <a href="https://www.pexels.com/@megapixelstock/">Megapixelstock</a> on <a href="https://www.pexels.com/">Pexels</a>.
 7. [player-2](assets/images/player-2.jpg):Photo by <a href="https://unsplash.com/@vidarnm">Vidar Nordli-Mathisen</a> on <a href="https://unsplash.com/">Unsplash</a>.
 8. [player-3](assets/images/player-3.jpg):Photo by <a href="https://unsplash.com/@grimalkin">Lena Grimalkin</a> on <a href="https://unsplash.com/">Unsplash</a>.
+9. [player-4](assets/images/player-4.jpg):Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
