@@ -470,7 +470,7 @@ form textarea{
     height: 4rem;
 }
 
-#contact-form {
+#contact-form, #contact-info{
     margin: 3rem;
     padding: 1rem;
     border-radius: 1rem;
@@ -500,9 +500,28 @@ form textarea{
 }
 
 #message {
-    resize: none;
+    resize: vertical;
 }
 
+button[type=submit] {
+    background-color: #4493C7;
+    padding: 0.75rem 1rem;
+    border-radius: 0.2rem;
+    margin-top: 1.75rem;
+
+    position: relative;
+    left: 50%;
+    transform: translateX(-3.6rem);
+}
+
+#map  {
+    padding: 3rem;
+}
+
+#map iframe {
+    border-radius: 1rem;
+    width: 100%;
+}
 /* HEADER MEDIA QUERIES */
 
 @media only screen and (max-width:372px) {
