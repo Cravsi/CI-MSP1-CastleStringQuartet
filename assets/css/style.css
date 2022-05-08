@@ -449,6 +449,12 @@ footer {
     margin: 0;
 }
 
+#footer-contact a {
+    font-family: inherit;
+    color: inherit;
+    text-decoration: none;
+}
+
 a>i {
     font-size: 160%;
     color: var(--black);
