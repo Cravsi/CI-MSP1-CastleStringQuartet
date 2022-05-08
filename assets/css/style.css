@@ -516,12 +516,21 @@ a>i {
     .player {
         flex-direction: row-reverse;
     }
+
+    .players-txt p {
+        padding: 3rem 15% 3rem 35%;
+        margin-left: -35%;
+    }
+    
+    .players-txt p:nth-of-type(2) {
+        padding: 5% 5% 3rem 35%;
+        margin-left: -35%;
+    }
 }
 /* FOOTER MEDIA QUERIES */
 
 @media screen and (min-width: 768px) {
     footer {
         flex-direction: row;
-
     }
 }
