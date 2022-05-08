@@ -460,6 +460,35 @@ a>i {
     color: var(--black);
 }
 
+/* CONTACT PAGE */
+
+form > div, form input, form label, form textarea {
+    display: block;
+}
+
+form textarea{
+    height: 4rem;
+}
+
+#contact-form {
+    margin: 3rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    border: 1px solid var(--black);
+}
+
+.form-label {
+    padding-bottom: 0.4rem;
+}
+
+.form-input {
+    border-radius: 0.3rem;
+    color: #00000e54;
+    width: 100%;
+    max-width: 100%;
+    padding: 0.5rem 0;
+}
+
 /* HEADER MEDIA QUERIES */
 
 @media only screen and (max-width:372px) {

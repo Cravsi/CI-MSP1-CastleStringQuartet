@@ -45,38 +45,39 @@
 
         <main>  
             <!-- Contact Form -->
-            <div>
+            <div id="contact-form">
                 <h4>For any questions, comment or enquiries please contact us below.</h4>
                 <form action="https://formdump.codeinstitute.net" method="post">
                     <div>
-                        <label for="">Your Name:</label>
-                        <input type="name" id="name" name="name" required>
+                        <label for="name" class="form-label">Name:</label>
+                        <input type="name" id="name" name="name" required class="form-input">
                     </div>
                     <div>
-                        <label for="">Your E-mail:</label>
-                        <input type="email" id="email" name="email" required>
+                        <label for="email" class="form-label">E-mail:</label>
+                        <input type="email" id="email" name="email" required class="form-input">
                     </div>
                     <div>
-                        <label for="phone">Your Phone Number:</label>
-                        <input type="tel" id="phone" name="phone" aria-describedby="gdpr-notice">
+                        <label for="phone" class="form-label">Phone Number:</label>
+                        <input type="tel" id="phone" name="phone" class="form-input" aria-describedby="gdpr-notice">
                         <div id="gdpr-notice">
                             <p>You're name and contact detail will remain private and not be shared with anyone else</p>
                         </div>
                     </div>
                     <div>
-                        <label for="message">Your: Message</label>
-                        <textarea id="message" name="name" placeholder="Your Message" maxlength="250" required>
+                        <label for="message" class="form-label">Message:</label>
+                        <textarea id="message" name="message" placeholder="Your Message" 
+                        maxlength="250" required class="form-input">
                     </div>
                 </form>
             </div>
             <!-- Location on Map -->
-            <div>
+            <div style="width: 100%; height: 50rem;">
                 <iframe src="https://www.google.com/maps/d/embed?mid=1SWf6nH0U342OotiSMqolhCix_SZrXgCa&ehbc=2E312F" 
                 width="640" height="480"></iframe>
-            </div>
+            </div style="height: 5rem; color:red; width: 100%">
             <!-- Contact Information -->
             <div>
-
+                
             </div>
         </main>
 
