@@ -324,7 +324,6 @@ br {
     display: grid;
     grid-template-columns: 1fr;
     grid-gap: 1rem;
-    width: 100vw;
     grid-template-areas: 
         "corp-img"
         "corp-txt"
@@ -374,6 +373,13 @@ br {
 
 .info-txt-container {
     margin: 0 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.info-txt-container p {
+    flex: 0 1 80%;
 }
 
 #players-heading {
@@ -488,7 +494,6 @@ a>i {
         grid-auto-rows: minmax(5rem, auto);
         grid-template-areas:
             "head-logo head-heading head-menu";
-
     }
 
     .logo {
@@ -514,6 +519,18 @@ a>i {
             "heading heading"
             "video-1 text-1"
             "text-2 video-2";
+    }
+
+    #information-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 1rem;
+        max-width:100%;
+        grid-template-areas: 
+            "corp-img corp-txt"
+            "party-txt party-img"
+            "wed-img wed-txt";
+        margin:5%;
     }
 }
 
