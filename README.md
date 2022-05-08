@@ -116,6 +116,7 @@ Uncredited images have been provided for use by Castle String Quartet
 4. [corporate-function ](assets/images/corp-function.jpg):Photo by <a href="https://www.pexels.com/@pietrozj/">Pietro Jeng</a> on <a href="https://www.pexels.com/">Pexels</a>.
 5. [party](assets/images/party.jpg):Photo by <a href="https://www.pexels.com/@expect-best-79873/">Expect Best</a> on <a href="https://www.pexels.com/">Pexels</a>.
 6. [wedding](assets/images/wedding.jpg):Photo by <a href="https://www.pexels.com/@megapixelstock/">Megapixelstock</a> on <a href="https://www.pexels.com/">Pexels</a>.
-7. [player-2](assets/images/player-2.jpg):Photo by <a href="https://unsplash.com/@vidarnm">Vidar Nordli-Mathisen</a> on <a href="https://unsplash.com/">Unsplash</a>.
-8. [player-3](assets/images/player-3.jpg):Photo by <a href="https://unsplash.com/@grimalkin">Lena Grimalkin</a> on <a href="https://unsplash.com/">Unsplash</a>.
-9. [player-4](assets/images/player-4.jpg):Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
+7. [player-1](assets/images/player-1.jpg):Photo by <a href="https://www.pexels.com/@helen1/">Helena Jankovičová Kováčová</a> on <a href="https://www.pexels.com/">Pexels</a>.
+8. [player-2](assets/images/player-2.jpg):Photo by <a href="https://unsplash.com/@vidarnm">Vidar Nordli-Mathisen</a> on <a href="https://unsplash.com/">Unsplash</a>.
+9. [player-3](assets/images/player-3.jpg):Photo by <a href="https://unsplash.com/@grimalkin">Lena Grimalkin</a> on <a href="https://unsplash.com/">Unsplash</a>.
+10. [player-4](assets/images/player-4.jpg):Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
