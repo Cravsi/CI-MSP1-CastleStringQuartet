@@ -42,8 +42,10 @@ hr {
     margin: 0 12.5% 0 12.5% !important;
 }
 
-
-
+br {
+    display: block;
+    margin: 3px 0;
+}
 /* End of Element Styles */
 
 /* Font Helper Classes */
@@ -382,7 +384,7 @@ hr {
 }
 
 .players-txt p {
-    padding: 5% 5% 15%;
+    padding: 5% 5% 3rem;
 }
 
 .players-txt h4 {
@@ -507,6 +509,12 @@ a>i {
             "heading heading"
             "video-1 text-1"
             "text-2 video-2";
+    }
+}
+
+@media only screen and (min-width:640px) {
+    .player {
+        flex-direction: row-reverse;
     }
 }
 /* FOOTER MEDIA QUERIES */
