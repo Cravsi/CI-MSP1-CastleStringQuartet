@@ -303,8 +303,7 @@ hr {
         "party-img"
         "party-txt"
         "wed-img"
-        "wed-txt"
-        "about";
+        "wed-txt";
 }
 
 #information-grid > div {
@@ -333,10 +332,6 @@ hr {
 
 #wed-txt {
     grid-area: wed-txt;
-}
-
-#about {
-    grid-area: about;
 }
 
 .info-img-container {
