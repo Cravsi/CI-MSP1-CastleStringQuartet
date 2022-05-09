@@ -658,7 +658,3 @@ button[type=submit] {
     transform: scale(1.1);
     text-decoration: underline;
 }
-
-.active {
-    text-decoration: underline;
-}
