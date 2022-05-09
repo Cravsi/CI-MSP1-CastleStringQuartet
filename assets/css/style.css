@@ -208,14 +208,13 @@ br {
 }
 
 #menu {
-    flex-grow: 0;
     text-transform: capitalize;
-    padding-left: 2rem;
-    min-width: 250px !important;
-    overflow-wrap: normal;
+    padding-left: 1.2rem;
+    min-width: 100%;
+    flex-wrap: wrap;
 
     display: flex;
-    justify-content: center;
+    justify-content:flex-start;
 }
 
 #menu a {
@@ -226,7 +225,7 @@ br {
 
 #menu li {
     display: inline-block;
-    padding: 0 3px;
+    padding: 0 0.5rem;
 }
 
 /* INDEX PAGE STYLING */
@@ -536,11 +535,14 @@ button[type=submit] {
 @media only screen and (max-width:372px) {
     .header-grid {
         grid-template-columns: 1fr;
-        grid-auto-rows: 5rem 5rem;
         grid-template-areas:
             "head-logo"
             "head-heading"
             "head-menu";
+    }
+
+    #menu {
+        padding-left: none;
     }
 
     .header-grid-logo {
@@ -558,7 +560,6 @@ button[type=submit] {
         display: flex;
         justify-content: left;
     }
-
 }
 
 @media only screen and (min-width: 786px) {
