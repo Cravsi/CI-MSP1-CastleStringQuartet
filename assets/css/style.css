@@ -531,6 +531,18 @@ button[type=submit] {
     border-radius: 1rem;
     width: 100%;
 }
+
+/* GALLERY PAGE */
+
+#gallery {
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
+
+#gallery > div {
+    max-height: 40rem;
+}
 /* HEADER MEDIA QUERIES */
 
 @media only screen and (max-width:372px) {
