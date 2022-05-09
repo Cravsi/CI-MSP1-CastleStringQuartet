@@ -1,9 +1,26 @@
 # Castle String Quartet
 
 ## Table of Contents
+1. [Project Goals](#project-goals)
+    1. [User Goals](#user-goals)
+    2. [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requirements & Expectations](#user-requirements-and-expectations)
+    3. [User Stories](#user-stories)
+        1. [First Time User](#first-time-user)
+        2. [Returning User](#returning-user)
+        3. [Site Owner](#site-owner)
+3. [Design](#design)
+    1. [Design Choices](#design-choice)
+    2. [Colour Pallette](#colour-pallette)
+    3. [Fonts](#fonts)
+    4. [Structure](#structure)
+4. [Technologies Used](#technologies)
+    1. [Languages](#langauges)
+    2. [Frameworks & Tools](#frameworks--tools)
 
 ## Project Goals
-
 ### User Goals
 - Find out about the members of the quartet.
 - Find out what sort of music the quartet perform.
