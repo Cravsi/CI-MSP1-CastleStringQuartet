@@ -58,12 +58,30 @@ As the site owner, I want to:
 ## Design
 
 ### Design Choice
+This webpage has been designed to be visually interesting and impart upon the readers the information required to get to know the violin quartet as potential customers or fans.
 
 ### Colour Pallette
+The chosen colour pallette was chosen to appear clean and modern with inspiration from the BMW i series of cars. All colours were felt to contrast well and compliment each other by including some blue.
+<br>
+The three colours used are shown on the pallette below.
+<figure>
+    <img src="docs/features/colour-pallette.png" alt="The website colour pallette">
+    <figcaption>The colour pallette used for the website</figcaption>
+</figure>
 
 ### Fonts
+The "Oswald" font was used for headings.
+<br>
+The "Open Sans" font was used for bodies of text as it is considered complimentary to "Oswald".
 
 ### Structure
+The website structure was kept simple for the ease of navigation. Upon landing on the website the user 
+is first met with a nav-bar to easily traverse the website, a recognisable logo to help the users confirm they have found the correct site and a hero-image of the quartet who they want to know more about and may recognise from an event the user user may have attended. A common header and footer is used across the site to provide a consistent UI experience for the user.
+<br>
+The site is spread across three separate pages:
+<br> - An extended home-page which includes a hero-image, samples of the band playing, what types of events the quartet plays at & information on the quartet's players.
+<br> - A gallery page containing videos and images of the quartet.
+<br> - A contact page to allow the user to quickly get in contact with the quartet.
 
 ### Wireframes
 <details><summary>Home-Page</summary>
