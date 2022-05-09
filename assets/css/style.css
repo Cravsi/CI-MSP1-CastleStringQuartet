@@ -274,7 +274,7 @@ br {
 
 .performance-grid {
     display: grid;
-    grid-template-rows: 4rem repeat(2, auto 15rem);
+    grid-template-rows: 4rem repeat(2, auto);
     grid-gap: 0.5rem;
     grid-template-areas:
         "heading"
