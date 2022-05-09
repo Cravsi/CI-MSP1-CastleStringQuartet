@@ -511,15 +511,16 @@ form textarea{
     resize: vertical;
 }
 
+#submit-button {
+    display: flex;
+    justify-content: center;
+}
+
 button[type=submit] {
     background-color: #4493C7;
     padding: 0.75rem 1rem;
     border-radius: 0.2rem;
     margin-top: 1.75rem;
-
-    position: relative;
-    left: 50%;
-    transform: translateX(-3.6rem);
 }
 
 #map  {
