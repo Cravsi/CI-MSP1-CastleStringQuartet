@@ -116,8 +116,18 @@ The site is spread across three separate pages:
 ## Technologies
 
 ### Langauges
+ - CSS
+ - HTML
 
 ### Frameworks & Tools
+- Git 
+- GitHub
+- GitPod
+- Balsamiq
+- Google Fonts
+- Awesome Fonts
+- Pexels
+- Unsplash
 
 ## Features
 
