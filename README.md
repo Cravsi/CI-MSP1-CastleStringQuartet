@@ -165,3 +165,6 @@ Uncredited images have been provided for use by Castle String Quartet
 8. [player-2](assets/images/player-2.jpg):Photo by <a href="https://unsplash.com/@vidarnm">Vidar Nordli-Mathisen</a> on <a href="https://unsplash.com/">Unsplash</a>.
 9. [player-3](assets/images/player-3.jpg):Photo by <a href="https://unsplash.com/@grimalkin">Lena Grimalkin</a> on <a href="https://unsplash.com/">Unsplash</a>.
 10. [player-4](assets/images/player-4.jpg):Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
+11. [candles](assets/images/candles.jpg): Photo by <a href="pexels.com/@irina-anastasiu-10540/">Irina Anastasiu</a> on <a href="https://www.pexels.com/">Pexels</a>.
+12. [candles](assets/images/choir.jpg): Photo by <a href="https://www.pexels.com/@blue-ox-studio-218748/">Blue Ox Studio</a> on <a href="https://www.pexels.com/">Pexels</a>.
+13. [player-4](assets/images/strings.jpg):Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
