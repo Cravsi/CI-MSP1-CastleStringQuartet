@@ -370,11 +370,7 @@ br {
     margin: 0 1rem 2rem;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-}
-
-.info-txt-container p {
-    flex: 0 1 80%;
+    justify-content: center;
 }
 
 #players-heading {
