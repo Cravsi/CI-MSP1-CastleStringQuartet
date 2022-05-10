@@ -165,7 +165,29 @@ This website consists of 3 pages, including # differnt features
     <img src="docs/features/feature-footer.png" alt="Website Footer">
 </figure>
 
+### Hero-Image
+- Introduces the user to the quartet.
+<figure>
+    <img src="docs/features/feature-hero-image.png" alt="the string quartet">
+</figure>
 
+### Blurb
+- Provides some general background information on the quartet.
+<figure>
+    <img src="docs/features/feature-blurb.png" alt="the blurb">
+</figure>
+
+### Performances
+- Displays some past performances by the band to the users.
+<figure>
+    <img src="docs/features/feature-performance.png" alt="past performances">
+</figure>
+
+### Player Information
+- Provides more information on the background of each of the quartet's members.
+<figure>
+    <img src="docs/features/feature-player-info.png" alt="player backgrounds">
+</figure>
 
 ## Testing
 
