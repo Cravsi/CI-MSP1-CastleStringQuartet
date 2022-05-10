@@ -196,6 +196,20 @@ This website consists of 3 pages, including # differnt features
     <img src="docs/features/feature-player-info.png" alt="player backgrounds">
 </figure>
 
+### Contact Form
+- Allow the user to quickly get in contact with the quartet.
+- User can provide their own contact details to allow the quartet to respond.
+- Users can leave messages or reviews for the quartet.
+<figure>
+    <img src="docs/features/feature-contact-form.png" alt="site contact form">
+</figure>
+
+### Gallery
+- Imagery of the quartet's events and locations.
+<figure>
+    <img src="docs/features/feature-gallery.png" alt="image gallery">
+</figure>
+
 ## Testing
 
 ## Deployment
