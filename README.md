@@ -183,6 +183,13 @@ This website consists of 3 pages, including # differnt features
     <img src="docs/features/feature-performance.png" alt="past performances">
 </figure>
 
+### Functions
+- Describes to the user the type of events the quartet plays for.
+- Provides reviews from previous patrons for each event type.
+<figure>
+    <img src="docs/features/feature-functions.png" alt="Corporate Function">
+</figure>
+
 ### Player Information
 - Provides more information on the background of each of the quartet's members.
 <figure>
