@@ -535,14 +535,24 @@ button[type=submit] {
 /* GALLERY PAGE */
 
 #gallery {
-    display: flex;
-    flex-wrap: wrap;
-    flex-grow: 1;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2%;
+    background: var(--white);
+    padding: 1%;
+    margin: 1rem;
 }
 
-#gallery > div {
-    max-height: 40rem;
+#gallery img {
+    width: 100%;
+    display: block;
+    transition: 1s ease-out;
 }
+
+#gallery img:hover{
+    transform:scale(1.02);
+}
+
 /* HEADER MEDIA QUERIES */
 
 @media only screen and (max-width:372px) {
