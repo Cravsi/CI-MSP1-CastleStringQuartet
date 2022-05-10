@@ -656,6 +656,14 @@ button[type=submit] {
     }
 }
 
+/* GALLERY MEDIA QUERIES */
+
+@media screen and (min-width: 670px) {
+    #gallery {
+        gap:2%
+    }
+}
+
 /* FOOTER MEDIA QUERIES */
 
 @media screen and (min-width: 768px) {
