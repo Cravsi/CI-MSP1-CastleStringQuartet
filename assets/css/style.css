@@ -228,6 +228,13 @@ br {
     padding: 0 0.5rem;
 }
 
+.active {
+    background-color: #F0F1F7 !important;
+    color: #4493C7 !important;
+    padding: 2px 4px;
+    border-radius: 5px;
+}
+
 /* INDEX PAGE STYLING */
 
 #hero-image > img {
