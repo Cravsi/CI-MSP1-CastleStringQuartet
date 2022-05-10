@@ -147,6 +147,25 @@ The site is spread across three separate pages:
 - Unsplash
 
 ## Features
+This website consists of 3 pages, including # differnt features
+
+### Logo and Navigation Bar
+ - The three webpages share a common header.
+ - The logo and name are displayed to confirm the user is on the correct site.
+ - A nav-bar is provided for quick navigation throughout the website.
+ - The current webpage is highlighted within the nav-bar.
+<figure>
+    <img src="docs/features/feature-header.png" alt="Website Header">
+</figure>
+
+### Footer
+- Common across all three pages
+- Three sections: Social Media Link, Contact Information, A logo linking back to the home-page.
+<figure>
+    <img src="docs/features/feature-footer.png" alt="Website Footer">
+</figure>
+
+
 
 ## Testing
 
