@@ -230,7 +230,7 @@ br {
 
 .active {
     background-color: #F0F1F7 !important;
-    color: #4493C7 !important;
+    color: var(--black) !important;
     padding: 2px 4px;
     border-radius: 5px;
 }
