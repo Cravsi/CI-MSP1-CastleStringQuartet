@@ -462,6 +462,10 @@ a>i {
     color: var(--black);
 }
 
+footer h2{
+    font-size: 1.17em;
+}
+
 /* CONTACT PAGE */
 
 form > div, form input, form label, form textarea {
