@@ -209,7 +209,6 @@ br {
 
 #menu {
     text-transform: capitalize;
-    padding-left: 1.2rem;
     min-width: 100%;
     flex-wrap: wrap;
 
@@ -584,7 +583,7 @@ button[type=submit] {
         grid-area: head-logo;
     }
 
-    .header-heading {
+    .header-grid-heading {
         grid-area: head-heading;
         display: flex;
         justify-content: center !important;
@@ -592,8 +591,11 @@ button[type=submit] {
 
     .header-grid-menu {
         grid-area: head-menu;
+    }
+
+    .header-grid-item {
         display: flex;
-        justify-content: left;
+        justify-content: center;
     }
 }
 
