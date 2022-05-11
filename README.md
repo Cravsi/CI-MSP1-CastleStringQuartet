@@ -26,7 +26,7 @@
     4. [Performance](#performance)
     5. [Device Testing](#device-testing)
     6. [Browser Compatibility](#browser-compatibility)
-    7. [Testin User Stories](#testing-user-stories)
+    7. [Testing User Stories](#testing-user-stories)
 ## Project Goals
 ### User Goals
 - Find out about the members of the quartet.
