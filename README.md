@@ -19,7 +19,14 @@
 4. [Technologies Used](#technologies)
     1. [Languages](#langauges)
     2. [Frameworks & Tools](#frameworks--tools)
-
+5. [Testing](#testing)
+    1. [HTML Validation](#html-validation)
+    2. [CSS Validation](#css-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Device Testing](#device-testing)
+    6. [Browser Compatibility](#browser-compatibility)
+    7. [Testin User Stories](#testing-user-stories)
 ## Project Goals
 ### User Goals
 - Find out about the members of the quartet.
@@ -211,6 +218,25 @@ This website consists of 3 pages, including # differnt features
 </figure>
 
 ## Testing
+### HTML Validation
+The W3C validation service was used to validate the html of all three webpages.
+
+### CSS Validation
+The W3C Jigsaw CSS validation service is used to validate the sites CSS styling.
+
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool is used to ensure each page is highly accessible.
+
+### Performance
+Google Lighthouse, found in Google Chrome Dev tools was used to test the performance of the site.
+
+### Device Testing
+The following devices were used to test the site:
+
+### Browser Compatibility
+The following devicese were used to test the site:
+
+### Testing User Stories
 
 ## Deployment
 
