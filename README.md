@@ -254,7 +254,7 @@ Uncredited images have been provided for use by Castle String Quartet
 3. [performance-video-2 ](https://www.youtube.com/watch?v=es_3F3TLJS0&t=2s): Video by <a href="www.theweddingstringquartet.com">The Wedding String Quartet</a>.
 4. [corporate-function ](assets/images/corp-function.jpg):Photo by <a href="https://www.pexels.com/@pietrozj/">Pietro Jeng</a> on <a href="https://www.pexels.com/">Pexels</a>.
 5. [party](assets/images/party.jpg):Photo by <a href="https://www.pexels.com/@expect-best-79873/">Expect Best</a> on <a href="https://www.pexels.com/">Pexels</a>.
-6. [wedding](assets/images/wedding.jpg):Photo by <a href="https://www.pexels.com/@megapixelstock/">Megapixelstock</a> on <a href="https://www.pexels.com/">Pexels</a>.
+6. [wedding](assets/images/wedding.jpg):Photo by <a href="https://www.pexels.com/@asadphotography/">Asad Photo Maldives</a> on <a href="https://www.pexels.com/">Pexels</a>.
 7. [player-1](assets/images/player-1.jpg):Photo by <a href="https://www.pexels.com/@helen1/">Helena Jankovičová Kováčová</a> on <a href="https://www.pexels.com/">Pexels</a>.
 8. [player-2](assets/images/player-2.jpg):Photo by <a href="https://unsplash.com/@vidarnm">Vidar Nordli-Mathisen</a> on <a href="https://unsplash.com/">Unsplash</a>.
 9. [player-3](assets/images/player-3.jpg):Photo by <a href="https://unsplash.com/@grimalkin">Lena Grimalkin</a> on <a href="https://unsplash.com/">Unsplash</a>.
