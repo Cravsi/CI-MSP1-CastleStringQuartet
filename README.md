@@ -238,6 +238,12 @@ The following devicese were used to test the site:
 
 ### Testing User Stories
 
+## Bugs
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| About link in header of Gallery and Contact did not link back to Index | Change href to link to about section of Index |
+| h3 elements in footer of gallery/contact when no h2 was present on page | Changed to h2 for improved accessibility |
+
 ## Deployment
 
 ## Credits
