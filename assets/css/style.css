@@ -524,9 +524,11 @@ form textarea{
 }
 
 button[type=submit] {
-    background-color: #4493C7;
+    background-color: var(--white);
+    color: var(--black);
     padding: 0.75rem 1rem;
-    border-radius: 0.2rem;
+    border: 2px solid var(--blue);
+    border-radius: 1rem;
     margin-top: 1.75rem;
 }
 
