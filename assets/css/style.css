@@ -102,8 +102,8 @@ br {
 }
 
 .img-pos {
-    max-width: 100%;
-    aspect-ratio: 16/9;
+    width: 100%;
+    height:auto;
 }
 
 .circle-container {
@@ -237,7 +237,7 @@ br {
 /* INDEX PAGE STYLING */
 
 #hero-image > img {
-    aspect-ratio: 16/9;
+    height: auto;
     width: 100%;
 }
 
