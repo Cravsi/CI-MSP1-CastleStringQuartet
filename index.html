@@ -250,6 +250,41 @@
                     </a>
                 </div>
             </section>
+
+            <!-- Contact Form -->
+            <section id="contact-section">
+                <div class="section-heading">   
+                    <h2 class="black-font font-w400 upper">Leave us a Message</h2>
+                </div>
+                <div id="contact-form">
+                    <h4>For any questions, comment or enquiries please contact us below.</h4>
+                    <form action="https://formdump.codeinstitute.net" method="post">
+                        <div>
+                            <label for="name" class="form-label">Name:</label>
+                            <input type="text" id="name" name="name" class="form-input">
+                        </div>
+                        <div>
+                            <label for="email" class="form-label">E-mail:</label>
+                            <input type="email" id="email" name="email" required class="form-input">
+                        </div>
+                        <div>
+                            <label for="phone" class="form-label">Phone Number:</label>
+                            <input type="tel" id="phone" name="phone" class="form-input" aria-describedby="gdpr-notice">
+                            <div id="gdpr-notice">
+                                <p class="font-w300">You're name and contact detail will remain private and not be shared with anyone else</p>
+                            </div>
+                        </div>
+                        <div>
+                            <label for="message" class="form-label">Message:</label>
+                            <textarea id="message" name="message" placeholder="Your Message" 
+                            maxlength="250" required class="form-input"></textarea>
+                        </div>
+                        <div id="submit-button">
+                            <button type="submit" class="font-w300 hvr-grow white-font">Submit!</button>
+                        </div>
+                    </form>
+                </div>
+            </section>
         </main>
 
         <footer class="white-bg">

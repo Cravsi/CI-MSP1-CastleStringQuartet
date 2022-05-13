@@ -472,9 +472,10 @@ form textarea{
     height: 4rem;
 }
 
-#contact-page {
+#contact-section {
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 #contact-form {
