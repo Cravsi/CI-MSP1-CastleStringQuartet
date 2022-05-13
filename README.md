@@ -58,12 +58,14 @@ Link to Github [repository].
 - Find out what sort of music the quartet perform.
 - Find information on the type of events the quartet perform at and/or offer.
 - Get contact information of the quartet.
+<br>
 
 ### Site Owner Goals
 - Promote the business.
 - Provide contact information to potential customers.
 - Provide information to those who want to find out more about the quartet.
 - Increase the amount of customers for the quartet.
+<br>
 
 ## User Experience
 
@@ -72,6 +74,7 @@ Link to Github [repository].
 - Companies hiring for corporate functions.
 - Weddings.
 - Private parties.
+<br>
 
 ### User Requirements and Expectations
 - Easily navigate through the website.
@@ -80,6 +83,7 @@ Link to Github [repository].
 - User accessibility.
 - Site features work and are intuitive.
 - Simple and pleasant aesthetic.
+<br>
 
 ### User Stories
 
@@ -89,36 +93,42 @@ Link to Github [repository].
 3. As a first-time user, I want to know what sort of music the quartet plays.
 4. As a first-time user, I want to what type of events the quartet performs at.
 5. As a first-time user, I want to get in contact with the quartet.
+<br>
 
 #### Returning User
 1. As a returning user, I want to quickly get in contact with the quartet.
 2. As a returning user, I want to see the recent events the quartet performed at.
 3. As a returning user, I want to find the quartet on social media.
 4. As a returning user, I want to leave a message or suggestion for the quartet.
+<br>
 
 #### Site Owner
 1. As the site owner, I want to provide information about the quartet to users.
 2. As the site owner, I want to enable site users to get a good understanding on what the quartet likes to play.
 3. As the site owner, I want to enable site user to quickly get in contact with the quartet.
+<br>
 
 ## Design
 
 ### Design Choice
-This webpage has been designed to be visually interesting and impart upon the readers the information required to get to know the violin quartet as potential customers or fans.
+This webpage has been designed to be visually interesting and impart upon the readers the information required for them to feel they know enough about the violin quartet as potential customers or fans.
+<br>
 
 ### Colour Palette
-The chosen colour pallette was chosen to appear clean and modern with inspiration from the BMW i series of cars. All colours were felt to contrast well and compliment each other by including some blue.
+The chosen colour palette was chosen to appear clean and modern with inspiration from the BMW i series of cars. All colours were felt to contrast well and compliment each other by including shades blue.
 <br>
-The three colours used are shown on the pallette below.
+The three colours used are shown on the palette below.
 <figure>
     <img src="docs/features/colour-pallette.png" alt="The website colour pallette">
     <figcaption>The colour pallette used for the website</figcaption>
 </figure>
+<br>
 
 ### Fonts
-The "Oswald" font was used for headings.
+The *Oswald* font was used for headings.
 <br>
-The "Open Sans" font was used for bodies of text as it is considered complimentary to "Oswald".
+The *Open Sans* font was used for bodies of text as it is considered complimentary to *Oswald*.
+<br>
 
 ### Structure
 The website structure was kept simple for the ease of navigation. Upon landing on the website the user 
@@ -128,6 +138,7 @@ The site is spread across three separate pages:
 <br> - An extended home-page which includes a hero-image, samples of the band playing, what types of events the quartet plays at & information on the quartet's players.
 <br> - A gallery page containing videos and images of the quartet.
 <br> - A contact page to allow the user to quickly get in contact with the quartet.
+<br>
 
 ### Wireframes
 <details><summary>Home-Page</summary>
@@ -158,12 +169,14 @@ The site is spread across three separate pages:
         <figcaption>A wireframe for the contact page on mobile, tablet & browser</figcaption>
     </figure>
 </details>
+<br>
 
 ## Technologies
 
 ### Langauges
  - CSS
  - HTML
+ <br>
 
 ### Frameworks & Tools
 - [Git](https://git-scm.com/) 
@@ -176,9 +189,11 @@ The site is spread across three separate pages:
 - [Unsplash](https://unsplash.com/)
 - [TinyPNG](https://tinypng.com/)
 - [Convertio](https://convertio.co/jpg-webp/)
+<br>
 
 ## Features
 This website consists of 3 pages, including # differnt features
+<br>
 
 ### Logo and Navigation Bar
  - The three webpages share a common header.
@@ -240,6 +255,7 @@ This website consists of 3 pages, including # differnt features
 <figure>
     <img src="docs/features/feature-gallery.png" alt="image gallery">
 </figure>
+<br>
 
 ## Testing
 ### HTML Validation
@@ -250,6 +266,7 @@ The W3C validation service was used to validate the html of the webpage. No erro
             alt="Webpage HTML validation">
     </figure>
 </details>
+<br>
 
 ### CSS Validation
 The W3C Jigsaw CSS validation service is used to validate the sites CSS styling. No errors were found.
@@ -259,6 +276,7 @@ The W3C Jigsaw CSS validation service is used to validate the sites CSS styling.
             alt="Webpage CSS validation">
     </figure>
 </details>
+<br>
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool is used to ensure each page is highly accessible.
@@ -268,6 +286,7 @@ The WAVE WebAIM web accessibility evaluation tool is used to ensure each page is
             alt="Webpage Accessibility">
     </figure>
 </details>
+<br>
 
 ### Performance
 Google Lighthouse, found in Google Chrome Dev tools was used to test the performance of the site.
@@ -283,14 +302,18 @@ Google Lighthouse, found in Google Chrome Dev tools was used to test the perform
             alt="Mobile Performance">
     </figure>
 </details>
+<br>
 
 ### Device Testing
 The following devices were used to test the site:
+<br>
 
 ### Browser Compatibility
 The following devicese were used to test the site:
+<br>
 
 ### Testing User Stories
+<br>
 
 ## Bugs
 | **Bug** | **Fix** |
@@ -298,8 +321,10 @@ The following devicese were used to test the site:
 | About link in header of Gallery and Contact did not link back to Index | Change href to link to about section of Index |
 | h3 elements in footer of gallery/contact when no h2 was present on page | Changed to h2 for improved accessibility |
 | Player images continued scaling to take up most of the screen | Set max-width image containers |
+<br>
 
 ## Deployment
+<br>
 
 ## Credits
 Uncredited images have been provided for use by Castle String Quartet
