@@ -13,7 +13,7 @@
         3. [Site Owner](#site-owner)
 3. [Design](#design)
     1. [Design Choices](#design-choice)
-    2. [Colour Pallette](#colour-pallette)
+    2. [Colour Palette](#colour-pallette)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
 4. [Technologies Used](#technologies)
@@ -59,32 +59,29 @@
 ### User Stories
 
 #### First-Time User
-As a first-time user, I want to:
-1. Know more about the quartet members.
-2. Know what others think about the quartet.
-3. Know what sort of music the quartet plays.
-4. What type of events the quartet performs at.
-5. Get in contact with the quartet.
+1. As a first-time user, I want to know more about the quartet members.
+2. As a first-time user, I want to know what others think about the quartet.
+3. As a first-time user, I want to know what sort of music the quartet plays.
+4. As a first-time user, I want to what type of events the quartet performs at.
+5. As a first-time user, I want to get in contact with the quartet.
 
 #### Returning User
-As a returning user, I want to:
-1. Quickly get in contact with the quartet.
-2. See the recent events the quartet performed at.
-3. Find the quartet on social media.
-4. Leave a message or suggestion for the quartet.
+1. As a returning user, I want to quickly get in contact with the quartet.
+2. As a returning user, I want to see the recent events the quartet performed at.
+3. As a returning user, I want to find the quartet on social media.
+4. As a returning user, I want to leave a message or suggestion for the quartet.
 
 ### Site Owner
-As the site owner, I want to:
-1. Provide information about the quartet to users.
-2. Enable site users to get a good understanding on what the quartet likes to play.
-3. Enable site user to quickly get in contact with the quartet.
+1. As the site owner, I want to provide information about the quartet to users.
+2. As the site owner, I want to enable site users to get a good understanding on what the quartet likes to play.
+3. As the site owner, I want to enable site user to quickly get in contact with the quartet.
 
 ## Design
 
 ### Design Choice
 This webpage has been designed to be visually interesting and impart upon the readers the information required to get to know the violin quartet as potential customers or fans.
 
-### Colour Pallette
+### Colour Palette
 The chosen colour pallette was chosen to appear clean and modern with inspiration from the BMW i series of cars. All colours were felt to contrast well and compliment each other by including some blue.
 <br>
 The three colours used are shown on the pallette below.
@@ -221,16 +218,46 @@ This website consists of 3 pages, including # differnt features
 
 ## Testing
 ### HTML Validation
-The W3C validation service was used to validate the html of all three webpages.
+The W3C validation service was used to validate the html of the webpage. No errors were detected.
+<details><summary>HTML Validation</summary>
+    <figure>
+        <img src="docs/validation/validation-html.png"
+            alt="Webpage HTML validation">
+    </figure>
+</details>
 
 ### CSS Validation
-The W3C Jigsaw CSS validation service is used to validate the sites CSS styling.
+The W3C Jigsaw CSS validation service is used to validate the sites CSS styling. No errors were found.
+<details><summary>HTML Validation</summary>
+    <figure>
+        <img src="docs/validation/validation-css.png"
+            alt="Webpage CSS validation">
+    </figure>
+</details>
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool is used to ensure each page is highly accessible.
+<details><summary>Accessibility</summary>
+    <figure>
+        <img src="docs/validation/validation-accessibility.png"
+            alt="Webpage Accessibility">
+    </figure>
+</details>
 
 ### Performance
 Google Lighthouse, found in Google Chrome Dev tools was used to test the performance of the site.
+<details><summary>Lighthouse Desktop Performance</summary>
+    <figure>
+        <img src="docs/validation/validation-performance-desktop.png"
+            alt="Desktop Performance">
+    </figure>
+</details>
+<details><summary>Lighthouse Mobile Performance</summary>
+    <figure>
+        <img src="docs/validation/validation-performance-mobile.png"
+            alt="Mobile Performance">
+    </figure>
+</details>
 
 ### Device Testing
 The following devices were used to test the site:
