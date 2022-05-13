@@ -376,7 +376,7 @@ br {
     justify-content: center;
 }
 
-#players-heading {
+.section-heading {
     padding: 2rem;
     text-align: center;
 }
@@ -537,7 +537,11 @@ button[type=submit] {
     width: 100%;
 }
 
-/* GALLERY PAGE */
+/* GALLERY */
+
+#image-gallery{
+    border-top: 1rem solid var(--blue);
+}
 
 #gallery {
     display: grid;
