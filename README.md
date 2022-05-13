@@ -245,6 +245,7 @@ The following devicese were used to test the site:
 | ----------- | ----------- |
 | About link in header of Gallery and Contact did not link back to Index | Change href to link to about section of Index |
 | h3 elements in footer of gallery/contact when no h2 was present on page | Changed to h2 for improved accessibility |
+| Player images continued scaling to take up most of the screen | Set max-width image containers |
 
 ## Deployment
 
