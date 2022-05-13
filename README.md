@@ -336,7 +336,7 @@ Google Lighthouse, found in Google Chrome Dev tools was used to test the perform
     - Footer information remains clearly visible at all screen widths to a minimum of 280px.
     - All links work correctly.
 
-<details><summary>Fixes resultant form local testing.</summary>
+<details><summary>Fixes after local testing.</summary>
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
@@ -349,11 +349,20 @@ Google Lighthouse, found in Google Chrome Dev tools was used to test the perform
 <br>
 
 ### Device Testing
-The following devices were used to test the site:
+In addition to various devices resolutions being testing through the **Responsive Design Mode** tool in Mozilla Firefox the following devices were used to test the site:
+- Moto G8           [720x1560px]
+- Oppo AX7          [1080x2340px]
+- iPhone 13         [1170x2532px]
+- Galaxy Note 20    [1080x2400px]
+The website performed well on all these devices. No unexpected errors were found and responsiveness was good.
 <br>
 
 ### Browser Compatibility
 The following devicese were used to test the site:
+- Mozilla Firefox
+- Google Chrome
+- Microsoft Edge
+The website performed well on all these browsers. No unexpected errors were found and responsiveness was good.
 <br>
 
 ### Testing User Stories
