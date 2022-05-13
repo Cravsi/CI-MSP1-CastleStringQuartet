@@ -144,14 +144,16 @@ The site is spread across three separate pages:
  - HTML
 
 ### Frameworks & Tools
-- Git 
-- GitHub
-- GitPod
-- Balsamiq
-- Google Fonts
-- Awesome Fonts
-- Pexels
-- Unsplash
+- [Git](https://git-scm.com/) 
+- [GitHub](https://github.com/Cravsi/)
+- [GitPod](https://www.gitpod.io/)
+- [Balsamiq](https://balsamiq.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Awesome Fonts](https://fontawesome.com/)
+- [Pexels](https://www.pexels.com/)
+- [Unsplash](https://unsplash.com/)
+- [TinyPNG](https://tinypng.com/)
+- [Convertio](https://convertio.co/jpg-webp/)
 
 ## Features
 This website consists of 3 pages, including # differnt features
