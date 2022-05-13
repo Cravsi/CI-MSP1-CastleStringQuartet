@@ -19,6 +19,7 @@
 html {
     font-size: 62.5%;
     scroll-behavior: smooth;
+    min-width: 100vw;
 }
 
 body {
@@ -648,6 +649,10 @@ button[type=submit] {
 
     .player:nth-of-type(2n) {
         flex-direction: row;
+    }
+
+    .circle-container {
+        max-width: 40rem  ;
     }
 
     .players-txt p {
