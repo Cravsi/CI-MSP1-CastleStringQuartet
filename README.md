@@ -1,4 +1,12 @@
+<p align="center"><img src="docs/features/readme-head.png"></p>
+
 # Castle String Quartet
+
+For my **Portfolio Project 1** on **Code Institute's 5 Project Course** I have created this informational website focused on being a the go to site for a violin quartet. Here users can find out more about the quartet and how they might get in contact with the group.
+
+Link to deployed [site].
+
+Link to Github [repository].
 
 ## Table of Contents
 - [Castle String Quartet](#castle-string-quartet)
@@ -12,7 +20,7 @@
     + [User Stories](#user-stories)
       - [First-Time User](#first-time-user)
       - [Returning User](#returning-user)
-    + [Site Owner](#site-owner)
+      -  [Site Owner](#site-owner)
   * [Design](#design)
     + [Design Choice](#design-choice)
     + [Colour Palette](#colour-palette)
@@ -88,7 +96,7 @@
 3. As a returning user, I want to find the quartet on social media.
 4. As a returning user, I want to leave a message or suggestion for the quartet.
 
-### Site Owner
+#### Site Owner
 1. As the site owner, I want to provide information about the quartet to users.
 2. As the site owner, I want to enable site users to get a good understanding on what the quartet likes to play.
 3. As the site owner, I want to enable site user to quickly get in contact with the quartet.
