@@ -304,6 +304,50 @@ Google Lighthouse, found in Google Chrome Dev tools was used to test the perform
 </details>
 <br>
 
+### Local Testing
+- Logo
+    - Logo remains clearly visible down to a screen width of 280px.
+    - Clicking on the logo return the user to the top of the page.
+- Header & Navigation Bar
+    - Header remains positioned at the top of the screen regardless of where the user scrolls.
+    - Site name remains clearly visible down to a screen width of 280px.
+    - That when the user clicks on the nav bar links the page scrolls to the correct section.
+- Blurb
+    - That the heading remains clearly legigble and visible at all screen sizes to a minimum of 280px.
+    - That the blurb text body remains clearly legigble and visible at all screen sizes to a minimum of 280px.
+- Information Section 
+    - Section formats correctly above screen widths of 786px.
+    - All information clearly visible above 786px.
+    - Section formats correctly below 786px.
+    - All information clearly visible below 786px.
+    - Images scale properly at all screen widths.
+- Gallery
+    - Images display correctly at all widths down to a minimum of 280px.
+    - Images animate correctly when hovered over.
+    - Images open into a new tab when clicked on.
+- Contact Form
+    - Form displayed correctly at all screen widths to a minimum of 280px.
+    - Required information must be input before form can be submitted.
+    - Submit button is displayed correctly at all screen widths
+    - Submit button animates correctly when hovered over.
+    - Submit button sends data to correct address. (CodeInsitute form dump)
+    - All inputs require the expected data types i.e. emails / text. 
+- Footer
+    - Footer information remains clearly visible at all screen widths to a minimum of 280px.
+    - All links work correctly.
+
+<details><summary>Fixes resultant form local testing.</summary>
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| menu unclear under when width < 372px | changed menu justification to space-around |
+| footer contact link redundant due to one-page design | removed |
+| submit button returned data in same tab as site | added formtarget=_blank to open new tab |
+
+
+</details>
+<br>
+
 ### Device Testing
 The following devices were used to test the site:
 <br>

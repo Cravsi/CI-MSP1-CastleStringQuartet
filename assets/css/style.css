@@ -578,7 +578,7 @@ button[type=submit] {
     #menu {
         display: flex;
         flex-flow: row wrap;
-        justify-content: center;
+        justify-content: space-around;
         padding-left: 0;
     }
 
