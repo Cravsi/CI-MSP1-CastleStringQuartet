@@ -225,13 +225,6 @@ br {
     padding: 0 0.5rem;
 }
 
-.active {
-    background-color: #F0F1F7 !important;
-    color: var(--black) !important;
-    padding: 2px 4px;
-    border-radius: 5px;
-}
-
 /* INDEX PAGE STYLING */
 
 #hero-image > img {
@@ -698,4 +691,8 @@ button[type=submit] {
 .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
     transform: scale(1.1);
     text-decoration: underline;
+    background-color: #F0F1F7 !important;
+    color: var(--black) !important;
+    padding: 2px 4px;
+    border-radius: 5px; 
 }
