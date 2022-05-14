@@ -4,9 +4,9 @@
 
 For my **Portfolio Project 1** on **Code Institute's 5 Project Course** I have created this informational website focused on being a the go to site for a violin quartet. Here users can find out more about the quartet and how they might get in contact with the group.
 
-Link to deployed [site].
+Link to deployed [site](https://cravsi.github.io/castle-string-quartet/).
 
-Link to Github [repository].
+Link to Github [repository](https://github.com/Cravsi/castle-string-quartet).
 
 ## Table of Contents
 - [Castle String Quartet](#castle-string-quartet)
@@ -18,9 +18,6 @@ Link to Github [repository].
     + [Target Audience](#target-audience)
     + [User Requirements and Expectations](#user-requirements-and-expectations)
     + [User Stories](#user-stories)
-      - [First-Time User](#first-time-user)
-      - [Returning User](#returning-user)
-      -  [Site Owner](#site-owner)
   * [Design](#design)
     + [Design Choice](#design-choice)
     + [Colour Palette](#colour-palette)
@@ -49,7 +46,7 @@ Link to Github [repository].
     + [Browser Compatibility](#browser-compatibility)
     + [Testing User Stories](#testing-user-stories)
   * [Bugs](#bugs)
-  * [Deployment](#deployment)
+  * [Version Control](#version-control)
   * [Credits](#credits)
     + [Images](#images)
 ## Project Goals
@@ -255,6 +252,10 @@ This website consists of 3 pages, including # differnt features
 <figure>
     <img src="docs/features/feature-gallery.png" alt="image gallery">
 </figure>
+
+### Future Features
+- A scroll spy to display to the user which section they are viewing by moving an active class between the menu items.
+- An image carousel to display to the user multiple images where current hero-image is located.
 <br>
 
 ## Testing
@@ -353,7 +354,11 @@ In addition to various devices resolutions being testing through the **Responsiv
 - Moto G8           [720x1560px]
 - Oppo AX7          [1080x2340px]
 - iPhone 13         [1170x2532px]
+- iPhone 8          [667x375px]
+- iPhone XR         [828x1792px]
 - Galaxy Note 20    [1080x2400px]
+- OnePlus Nord 2    [1080x2400px]
+
 The website performed well on all these devices. No unexpected errors were found and responsiveness was good.
 <br>
 
@@ -376,7 +381,33 @@ The website performed well on all these browsers. No unexpected errors were foun
 | Player images continued scaling to take up most of the screen | Set max-width image containers |
 <br>
 
-## Deployment
+## Version Control
+### Git and Github
+Repository created on Github. 
+Method:
+- Create new public repository on Gitpod using the CodeInstitiute template.
+- Open a Gitpod workspace.
+- Create required folders and documents.
+- Project was previewed using the liveserver port on a the Firefox browser.
+- Work was continuosly saved and committed using the following git commands:
+    - **git add .** to stage changes to git.
+    - **git commit -m** to commit changes
+    - **git push** to push changes to Github repo.
+<br>
+
+### Deployment
+The site was deployed using Github Pages using the following steps:
+ 1. In the github repository open repository **settings**.
+ 2. In setting open **pages** tab.
+ 3. Select branch **main** as source.
+ 4. **Save** selection to deploy the site.
+ 5. Open the deployed site using the link provided on the screen.
+ <details><summary>Steps to deploy site on Github Pages</summary>
+    <figure>
+        <img src="docs/features/readme-deployment.png"
+            alt="Guide to site deployment">
+    </figure>
+</details>
 <br>
 
 ## Credits
