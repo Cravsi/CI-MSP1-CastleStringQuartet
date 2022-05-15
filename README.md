@@ -2,7 +2,7 @@
 
 # Castle String Quartet
 
-For my **Portfolio Project 1** on **Code Institute's 5 Project Course** I have created this informational website focused on being a the go to site for a violin quartet. Here users can find out more about the quartet and how they might get in contact with the group.
+For my **Portfolio Project 1** on **Code Institute's 5 Project Course** I have created this informational website focused on being the go to site for a the Castle String Quartet. Here users can find out more about the quartet and find the groupd contact information.
 
 Link to deployed [site](https://cravsi.github.io/castle-string-quartet/).
 
@@ -47,20 +47,22 @@ Link to Github [repository](https://github.com/Cravsi/castle-string-quartet).
     + [Testing User Stories](#testing-user-stories)
   * [Bugs](#bugs)
   * [Version Control](#version-control)
+    + [Git and Github](#git-and-github)
+    + [Deployment](#deployment)
   * [Credits](#credits)
     + [Images](#images)
 ## Project Goals
 ### User Goals
 - Find out about the members of the quartet.
-- Find out what sort of music the quartet perform.
-- Find information on the type of events the quartet perform at and/or offer.
-- Get contact information of the quartet.
+- Find out what sort of music the quartet performs.
+- Find information on the type of events the quartet performs at and/or offer.
+- Find the contact information of the quartet.
 <br>
 
 ### Site Owner Goals
 - Promote the business.
 - Provide contact information to potential customers.
-- Provide information to those who want to find out more about the quartet.
+- Provide information to inquiring about the quartet.
 - Increase the amount of customers for the quartet.
 <br>
 
@@ -69,7 +71,7 @@ Link to Github [repository](https://github.com/Cravsi/castle-string-quartet).
 ### Target Audience
 - People looking to find out more about the quartet.
 - Companies hiring for corporate functions.
-- Weddings.
+- Weddings parties.
 - Private parties.
 <br>
 
@@ -101,23 +103,23 @@ Link to Github [repository](https://github.com/Cravsi/castle-string-quartet).
 
 #### Site Owner
 10. As the site owner, I want to provide information about the quartet to users.
-11. As the site owner, I want to demonstrate to user the type of performances the quartet offers.
+11. As the site owner, I want to demonstrate to users the type of performances the quartet offers.
 12. As the site owner, I want to provide contact information to the users.
 <br>
 
 ## Design
 
 ### Design Choice
-This webpage has been designed to be visually interesting and impart upon the readers the information required for them to feel they know enough about the violin quartet as potential customers or fans.
+This webpage has been designed to be visually interesting and provide the readers the information required for them to feel they know enough about the violin quartet as fans or potential customers.
 <br>
 
 ### Colour Palette
-The chosen colour palette was chosen to appear clean and modern with inspiration from the BMW i series of cars. All colours were felt to contrast well and compliment each other by including shades blue.
+The chosen colour palette was appears clean and modern, with inspiration from the BMW i series of cars. All colours were felt to contrast well and compliment each other by including shades blue.
 <br>
 The three colours used are shown on the palette below.
 <figure>
     <img src="docs/features/colour-pallette.png" alt="The website colour pallette">
-    <figcaption>The colour pallette used for the website</figcaption>
+    <figcaption>The colour palette used for the website</figcaption>
 </figure>
 <br>
 
@@ -129,12 +131,14 @@ The *Open Sans* font was used for bodies of text as it is considered complimenta
 
 ### Structure
 The website structure was kept simple for the ease of navigation. Upon landing on the website the user 
-is first met with a nav-bar to easily traverse the website, a recognisable logo to help the users confirm they have found the correct site and a hero-image of the quartet who they want to know more about and may recognise from an event the user user may have attended. A common header and footer is used across the site to provide a consistent UI experience for the user.
+is first met with a nav-bar to easily traverse the website, a recognisable logo to help the users confirm they have found the correct site and a hero-image of the quartet, who they may recognise from an event the user user may have attended. A common header and footer is used to provide navigation & media links to the user.
 <br>
-The site is spread across three separate pages:
-<br> - An extended home-page which includes a hero-image, samples of the band playing, what types of events the quartet plays at & information on the quartet's players.
-<br> - A gallery page containing videos and images of the quartet.
-<br> - A contact page to allow the user to quickly get in contact with the quartet.
+The site is spread across one page with multiple sections:
+
+- An home section which includes a hero-image, a short descriptive blurb and a performance section.
+- An about section which contains information on the events the quartet accommodates and information on wach of the players.
+- A gallery section containing images of the quartet.
+- A contact section to allow the user to quickly get in contact with the quartet.
 <br>
 
 ### Wireframes
@@ -189,11 +193,10 @@ The site is spread across three separate pages:
 <br>
 
 ## Features
-This website consists of 3 pages, including # differnt features
+This website consists of 1 page, with multiple section:
 <br>
 
 ### Logo and Navigation Bar
- - The three webpages share a common header.
  - The logo and name are displayed to confirm the user is on the correct site.
  - A nav-bar is provided for quick navigation throughout the website.
  - The current webpage is highlighted within the nav-bar.
@@ -202,8 +205,7 @@ This website consists of 3 pages, including # differnt features
 </figure>
 
 ### Footer
-- Common across all three pages
-- Three sections: Social Media Link, Contact Information, A logo linking back to the home-page.
+- Three sections: Social Media Link, Contact Information, A logo linking back to the home section.
 <figure>
     <img src="docs/features/feature-footer.png" alt="Website Footer">
 </figure>
