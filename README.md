@@ -501,10 +501,39 @@ The site was deployed using Github Pages using the following steps:
  3. Select branch **main** as source.
  4. **Save** selection to deploy the site.
  5. Open the deployed site using the link provided on the screen.
- <details><summary>Steps to deploy site on Github Pages</summary>
+<details><summary>Steps to deploy site on Github Pages</summary>
     <figure>
         <img src="docs/features/readme-deployment.png"
             alt="Guide to site deployment">
+    </figure>
+</details>
+<br>
+
+### Fork
+A copy of the original repository can be created by forking it. This will allow changes to be made to the cloned repo without it affecting the original.
+
+1. From within the repo you want to fork click the **fork** button.
+2. Input the name and description of your cloned repo and click the **Create fork** button.
+<details><summary>Steps to fork a repository</summary>
+    <figure>
+        <img src="docs/features/readme-fork.png"
+            alt="Guide to forking a repository">
+    </figure>
+</details>
+<br>
+
+### Clone
+Cloning a repo allows you to make local changes to the repository before committing and pushing them to the remote.
+
+1. From within the repo you want to clone click the dropdown **Code** button.
+2. Click on the clipboard icon to copy the URL.
+3. In Git Bash, navigate to the working directory you want to place the clone.
+4. Type `git clone` followed by the copied URL.
+5. Press `Enter` and the clone will be created. 
+<details><summary>Steps to clone a repository</summary>
+    <figure>
+        <img src="docs/features/readme-clone.png"
+            alt="Guide to cloning a repository">
     </figure>
 </details>
 <br>
