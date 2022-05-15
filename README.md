@@ -142,30 +142,42 @@ The site is spread across one page with multiple sections:
 <br>
 
 ### Wireframes
+Initially the site was designed to include four pages. This was changed during the project to be a one-page layout, wireframes for mobile, tablet & browser layouts can be seen in "One-Page Layout". 
+<details><summary> <b>One-Page Layout</b> </summary>
+    <figure>
+        <img src="docs/wireframes/final.png"
+            alt="A wireframe for the home page">
+        <figcaption>A wireframe for the one-page layout on mobile, tablet & browser</figcaption>
+    </figure>
+</details>
+<br>
+
+The wireframes prior to the layout redesign have been included below.
+
 <details><summary>Home-Page</summary>
     <figure>
-        <img src="docs/wireframes/Home-Page.png"
+        <img src="docs/wireframes/home-page.png"
             alt="A wireframe for the home page">
         <figcaption>A wireframe for the home page on mobile, tablet & browser</figcaption>
     </figure>
 </details>
 <details><summary>Media-Page</summary>
     <figure>
-        <img src="docs/wireframes/Media.png"
+        <img src="docs/wireframes/media.png"
             alt="A wireframe for the media or gallery page">
         <figcaption>A wireframe for the media or gallery page on mobile, tablet & browser</figcaption>
     </figure>
 </details>
 <details><summary>About-Page</summary>
     <figure>
-        <img src="docs/wireframes/About.png"
+        <img src="docs/wireframes/about.png"
             alt="A wireframe for the about page">
         <figcaption>A wireframe for the about page on mobile, tablet & browser</figcaption>
     </figure>
 </details>
 <details><summary>Contact-Page</summary>
     <figure>
-        <img src="docs/wireframes/Contact.png"
+        <img src="docs/wireframes/contact.png"
             alt="A wireframe for the contact page">
         <figcaption>A wireframe for the contact page on mobile, tablet & browser</figcaption>
     </figure>
