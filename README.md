@@ -427,6 +427,7 @@ The website performed well on all these browsers. No unexpected errors were foun
 
 - 5. As a first-time user, I want to get in contact with the quartet.
 - 6. As a returning user, I want to quickly get in contact with the quartet.
+- 9. As a returning user, I want to leave a message or suggestion for the quartet.
 - 12. As the site owner, I want to provide contact information to the users.
 
 | **Feature** | **Action** | **Expected Result** | **Result** |
@@ -436,11 +437,7 @@ The website performed well on all these browsers. No unexpected errors were foun
 
 <details><summary>Screenshots</summary>
     <figure>
-        <img src="docs/testing/user-story-5,6&12-1.png"
-            alt="user story testing">
-    </figure>
-    <figure>
-        <img src="docs/testing/user-story-5,6&12-2.png"
+        <img src="docs/testing/user-story-7&8.png"
             alt="user story testing">
     </figure>
 </details>
@@ -448,33 +445,15 @@ The website performed well on all these browsers. No unexpected errors were foun
 
 - 7. As a returning user, I want to see the recent events the quartet performed at.
 - 8. As a returning user, I want to find the quartet on social media.
+
 | **Feature** | **Action** | **Expected Result** | **Result** |
 | ----- | ----- | ----- | ----- |
+| Social media links | Navigate to footer, click on social media links | User views latest social media posts | Works as expected |
 
 <details><summary>Screenshots</summary>
     <figure>
-        <img src="docs/testing/user-story-.png"
-            alt="">
-    </figure>
-    <figure>
-        <img src="docs/testing/user-story-.png"
-            alt="">
-    </figure>
-</details>
-<br>
-
-- 9. As a returning user, I want to leave a message or suggestion for the quartet.
-| **Feature** | **Action** | **Expected Result** | **Result** |
-| ----- | ----- | ----- | ----- |
-
-<details><summary>Screenshots</summary>
-    <figure>
-        <img src="docs/testing/user-story-.png"
-            alt="">
-    </figure>
-    <figure>
-        <img src="docs/testing/user-story-.png"
-            alt="">
+        <img src="docs/testing/user-story-7&8.png"
+            alt="user story testing">
     </figure>
 </details>
 <br>
