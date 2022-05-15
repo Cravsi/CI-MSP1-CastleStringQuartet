@@ -88,21 +88,21 @@ Link to Github [repository](https://github.com/Cravsi/castle-string-quartet).
 1. As a first-time user, I want to know more about the quartet members.
 2. As a first-time user, I want to know what others think about the quartet.
 3. As a first-time user, I want to know what sort of music the quartet plays.
-4. As a first-time user, I want to what type of events the quartet performs at.
+4. As a first-time user, I want to know what type of events the quartet performs.
 5. As a first-time user, I want to get in contact with the quartet.
 <br>
 
 #### Returning User
-1. As a returning user, I want to quickly get in contact with the quartet.
-2. As a returning user, I want to see the recent events the quartet performed at.
-3. As a returning user, I want to find the quartet on social media.
-4. As a returning user, I want to leave a message or suggestion for the quartet.
+6. As a returning user, I want to quickly get in contact with the quartet.
+7. As a returning user, I want to see the recent events the quartet performed at.
+8. As a returning user, I want to find the quartet on social media.
+9. As a returning user, I want to leave a message or suggestion for the quartet.
 <br>
 
 #### Site Owner
-1. As the site owner, I want to provide information about the quartet to users.
-2. As the site owner, I want to enable site users to get a good understanding on what the quartet likes to play.
-3. As the site owner, I want to enable site user to quickly get in contact with the quartet.
+10. As the site owner, I want to provide information about the quartet to users.
+11. As the site owner, I want to demonstrate to user the type of performances the quartet offers.
+12. As the site owner, I want to provide contact information to the users.
 <br>
 
 ## Design
@@ -371,6 +371,112 @@ The website performed well on all these browsers. No unexpected errors were foun
 <br>
 
 ### Testing User Stories
+- 1. As a first-time user, I want to know more about the quartet members.
+- 10. As the site owner, I want to provide information about the quartet to users.
+<br>
+
+| **Feature** | **Action** | **Expected Result** | **Result** |
+| ----- | ----- | ----- | ----- |
+| About Section | Click on the *About* link in the nav-bar | Find information about the quartet | Works as expected |
+| Gallery Section | Click on the *Gallery* link in the nav-bar | Find images of the quartet | Works as expected |
+<details><summary>Screenshots</summary>
+    <figure>
+        <img src="docs/testing/user-story-1,2&10-1.png"
+            alt="about action testing">
+    </figure>
+    <figure>
+        <img src="docs/testing/user-story-1&10-2.png"
+            alt="Gallery action testing">
+    </figure>
+</details>
+<br>
+
+- 2. As a first-time user, I want to know what others think about the quartet.
+
+| **Feature** | **Action** | **Expected Result** | **Result** |
+| ----- | ----- | ----- | ----- |
+| Reviews | Navigate to about section, scroll through functions | Read through reviews for each section | Works as expected |
+
+<details><summary>Screenshots</summary>
+    <figure>
+        <img src="docs/testing/user-story-1,2&10-1.png"
+            alt="Reviews section feature">
+    </figure>
+</details>
+<br>
+
+- 3. As a first-time user, I want to know what sort of music the quartet plays.
+- 4. As a first-time user, I want to know what type of events the quartet performs.
+- 11. As the site owner, I want to demonstrate to user the type of performances the quartet offers.
+
+| **Feature** | **Action** | **Expected Result** | **Result** |
+| ----- | ----- | ----- | ----- |
+| Performance Section | Navigate to the performance section | Watch performance videos | Works as expected |
+
+<details><summary>Screenshots</summary>
+    <figure>
+        <img src="docs/testing/user-story-3,4&11-1.png"
+            alt="user story testing">
+    </figure>
+    <figure>
+        <img src="docs/testing/user-story-3,4&11-2.png"
+            alt="user story testing">
+    </figure>
+</details>
+<br>
+
+- 5. As a first-time user, I want to get in contact with the quartet.
+- 6. As a returning user, I want to quickly get in contact with the quartet.
+- 12. As the site owner, I want to provide contact information to the users.
+
+| **Feature** | **Action** | **Expected Result** | **Result** |
+| ----- | ----- | ----- | ----- |
+| Contact Section | Navigate to footer, find contact information | Find contact information | Works as expected|
+| Contact Form | Navigate to contact form, submit form | Submit contact details and message | Works as expected |
+
+<details><summary>Screenshots</summary>
+    <figure>
+        <img src="docs/testing/user-story-5,6&12-1.png"
+            alt="user story testing">
+    </figure>
+    <figure>
+        <img src="docs/testing/user-story-5,6&12-2.png"
+            alt="user story testing">
+    </figure>
+</details>
+<br>
+
+- 7. As a returning user, I want to see the recent events the quartet performed at.
+- 8. As a returning user, I want to find the quartet on social media.
+| **Feature** | **Action** | **Expected Result** | **Result** |
+| ----- | ----- | ----- | ----- |
+
+<details><summary>Screenshots</summary>
+    <figure>
+        <img src="docs/testing/user-story-.png"
+            alt="">
+    </figure>
+    <figure>
+        <img src="docs/testing/user-story-.png"
+            alt="">
+    </figure>
+</details>
+<br>
+
+- 9. As a returning user, I want to leave a message or suggestion for the quartet.
+| **Feature** | **Action** | **Expected Result** | **Result** |
+| ----- | ----- | ----- | ----- |
+
+<details><summary>Screenshots</summary>
+    <figure>
+        <img src="docs/testing/user-story-.png"
+            alt="">
+    </figure>
+    <figure>
+        <img src="docs/testing/user-story-.png"
+            alt="">
+    </figure>
+</details>
 <br>
 
 ## Bugs
