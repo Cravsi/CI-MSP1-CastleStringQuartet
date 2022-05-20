@@ -659,13 +659,21 @@ footer h2{
 .hvr-grow {
     display: inline-block;
     vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
     transition-duration: 0.3s;
+    -webkit-transition-property: transform;
     transition-property: transform;
-}
+  }
+
 .hvr-grow:hover, .hvr-grow:focus, .hvr-grow:active {
     transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+}
+
+#menu .hvr-grow:hover {
     text-decoration: underline;
     background-color: #F0F1F7 !important;
     color: var(--black) !important;
