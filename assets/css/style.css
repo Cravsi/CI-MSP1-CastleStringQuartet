@@ -655,6 +655,10 @@ footer h2{
     footer {
         flex-direction: row;
     }
+
+    #footer-contact p {
+        padding: 0.8rem 0;
+    }
 }
 
 /* Button Animations */
