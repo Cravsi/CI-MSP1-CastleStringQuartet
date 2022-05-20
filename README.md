@@ -355,6 +355,7 @@ Google Lighthouse, found in Google Chrome Dev tools was used to test the perform
 | menu unclear under when width < 372px | changed menu justification to space-around |
 | footer contact link redundant due to one-page design | removed |
 | submit button returned data in same tab as site | added formtarget=_blank to open new tab |
+| logo hover animations turned logo into square | separate hover styling for menu buttons and logo icons |
 
 
 </details>
@@ -375,9 +376,9 @@ The website performed well on all these devices. No unexpected errors were found
 
 ### Browser Compatibility
 The following devicese were used to test the site:
-- Mozilla Firefox
-- Google Chrome
-- Microsoft Edge
+- Mozilla Firefox   v100.0.1
+- Google Chrome     v101.0.4951.67
+- Microsoft Edge    v100.0.1185.39
 The website performed well on all these browsers. No unexpected errors were found and responsiveness was good.
 <br>
 
