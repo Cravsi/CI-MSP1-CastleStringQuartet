@@ -558,6 +558,11 @@ Uncredited images have been provided for use by Castle String Quartet
 12. [player-4](assets/images/player-4.webp): Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
 13. [candles](assets/images/candles.webp): Photo by <a href="pexels.com/@irina-anastasiu-10540/">Irina Anastasiu</a> on <a href="https://www.pexels.com/">Pexels</a>.
 14. [choir](assets/images/choir.webp): Photo by <a href="https://www.pexels.com/@blue-ox-studio-218748/">Blue Ox Studio</a> on <a href="https://www.pexels.com/">Pexels</a>.
+<br>
+
+### Code
+- The button hover animations for the menu buttons and logo buttons taken from <a href="https://github.com/IanLunn/Hover">Hover</a> by <a href="https://github.com/IanLunn">Ian Lunn</a> on GitHub.
+<br>
 
 ## Acknowledgements
 I would like to thank my mentor Simen Dehlin for his mentorship throughout the project and Chris Quinn for pointing out the last few things and helping me get this first project over the line. I would also like to thank Mo and Mike Sheehan, the cohort mentor and facilitator for helping out wherever I had any questions. Lastly, thanks to all my friends and family who were happy to help out with the device testing.
