@@ -661,7 +661,7 @@ footer h2{
     }
 }
 
-/* Button Animations */
+/* Button Animations - taken from https://ianlunn.github.io/Hover/*/
 .hvr-grow {
     display: inline-block;
     vertical-align: middle;

@@ -286,7 +286,7 @@ The W3C validation service was used to validate the html of the webpage. No erro
 
 ### CSS Validation
 The W3C Jigsaw CSS validation service is used to validate the sites CSS styling. No errors were found.
-<details><summary>HTML Validation</summary>
+<details><summary>CSS Validation</summary>
     <figure>
         <img src="docs/validation/validation-css.png"
             alt="Webpage CSS validation">
