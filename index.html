@@ -265,15 +265,15 @@
                     <form action="https://formdump.codeinstitute.net" method="post">
                         <div>
                             <label for="name" class="form-label">Name:</label>
-                            <input type="text" id="name" name="name" class="form-input">
+                            <input type="text" id="name" name="name" class="form-input" required>
                         </div>
                         <div>
                             <label for="email" class="form-label">E-mail:</label>
-                            <input type="email" id="email" name="email" required class="form-input">
+                            <input type="email" id="email" name="email" required class="form-input" required>
                         </div>
                         <div>
                             <label for="phone" class="form-label">Phone Number:</label>
-                            <input type="tel" id="phone" name="phone" class="form-input" aria-describedby="gdpr-notice">
+                            <input type="tel" id="phone" name="phone" class="form-input" aria-describedby="gdpr-notice" required>
                             <div id="gdpr-notice">
                                 <p class="font-w300">You're name and contact detail will remain private and not be shared with anyone else</p>
                             </div>
@@ -281,7 +281,7 @@
                         <div>
                             <label for="message" class="form-label">Message:</label>
                             <textarea id="message" name="message" placeholder="Your Message" 
-                            maxlength="250" required class="form-input"></textarea>
+                            maxlength="250" required class="form-input" required></textarea>
                         </div>
                         <div id="submit-button">
                             <button type="submit" class="font-w300 hvr-grow white-font" formtarget="_blank">Submit!</button>
