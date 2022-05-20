@@ -541,19 +541,19 @@ Cloning a repo allows you to make local changes to the repository before committ
 ## Credits
 Uncredited images have been provided for use by Castle String Quartet
 ### Images
-2. [hero-image-1](assets/images/hero-image-1.webp):Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
-2. [hero-image-2](assets/images/hero-image-2.webp):Photo by <a href="https://unsplash.com/@hellokian">kian zhang
+1. [string-players](assets/images/string-players.webp): Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
+2. [violins-in-orchestra](assets/images/violins-in-orchestra.webp): Photo by <a href="https://unsplash.com/@hellokian">kian zhang
 </a> on <a href="https://unsplash.com/">Unsplash</a>.
-3. [hero-image-4](assets/images/hero-image-4.webp): Photo by <a href="https://www.pexels.com/@goumbik/">Lukas</a> on <a href="https://www.pexels.com/">Pexels</a>.
+
+3. [resting-violins](assets/images/resting-violins.webp): Photo by <a href="https://www.pexels.com/@goumbik/">Lukas</a> on <a href="https://www.pexels.com/">Pexels</a>.
 4. [performance-video-1](https://www.youtube.com/watch?v=i2nsvMQvw60&t=5s): Video by <a href="http://www.stringspace.com.au/">The Stringspace Quartet</a>.
-5. [performance-video-2 ](https://www.youtube.com/watch?v=es_3F3TLJS0&t=2s): Video by <a href="www.theweddingstringquartet.com">The Wedding String Quartet</a>.
-6. [corporate-function ](assets/images/corp-function.webp):Photo by <a href="https://www.pexels.com/@pietrozj/">Pietro Jeng</a> on <a href="https://www.pexels.com/">Pexels</a>.
-7. [party](assets/images/party.webp):Photo by <a href="https://www.pexels.com/@expect-best-79873/">Expect Best</a> on <a href="https://www.pexels.com/">Pexels</a>.
-8. [wedding](assets/images/wedding.webp):Photo by <a href="https://www.pexels.com/@asadphotography/">Asad Photo Maldives</a> on <a href="https://www.pexels.com/">Pexels</a>.
-9. [player-1](assets/images/player-1.webp):Photo by <a href="https://www.pexels.com/@helen1/">Helena Jankovičová Kováčová</a> on <a href="https://www.pexels.com/">Pexels</a>.
-10. [player-2](assets/images/player-2.webp):Photo by <a href="https://unsplash.com/@vidarnm">Vidar Nordli-Mathisen</a> on <a href="https://unsplash.com/">Unsplash</a>.
-11. [player-3](assets/images/player-3.webp):Photo by <a href="https://unsplash.com/@grimalkin">Lena Grimalkin</a> on <a href="https://unsplash.com/">Unsplash</a>.
-12. [player-4](assets/images/player-4.webp):Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
+5. [performance-video-2](https://www.youtube.com/watch?v=es_3F3TLJS0&t=2s): Video by <a href="www.theweddingstringquartet.com">The Wedding String Quartet</a>.
+6. [corp-function](assets/images/corp-function.webp): Photo by <a href="https://www.pexels.com/@pietrozj/">Pietro Jeng</a> on <a href="https://www.pexels.com/">Pexels</a>.
+7. [party](assets/images/party.webp): Photo by <a href="https://www.pexels.com/@expect-best-79873/">Expect Best</a> on <a href="https://www.pexels.com/">Pexels</a>.
+8. [couple-on-beach](assets/images/couple-on-beach.webp): Photo by <a href="https://www.pexels.com/@asadphotography/">Asad Photo Maldives</a> on <a href="https://www.pexels.com/">Pexels</a>.
+9. [player-1](assets/images/player-1.webp): Photo by <a href="https://www.pexels.com/@helen1/">Helena Jankovičová Kováčová</a> on <a href="https://www.pexels.com/">Pexels</a>.
+10. [player-2](assets/images/player-2.webp): Photo by <a href="https://unsplash.com/@vidarnm">Vidar Nordli-Mathisen</a> on <a href="https://unsplash.com/">Unsplash</a>.
+11. [player-3](assets/images/player-3.webp): Photo by <a href="https://unsplash.com/@grimalkin">Lena Grimalkin</a> on <a href="https://unsplash.com/">Unsplash</a>.
+12. [player-4](assets/images/player-4.webp): Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
 13. [candles](assets/images/candles.webp): Photo by <a href="pexels.com/@irina-anastasiu-10540/">Irina Anastasiu</a> on <a href="https://www.pexels.com/">Pexels</a>.
-14. [candles](assets/images/choir.webp): Photo by <a href="https://www.pexels.com/@blue-ox-studio-218748/">Blue Ox Studio</a> on <a href="https://www.pexels.com/">Pexels</a>.
-15 . [player-4](assets/images/strings.webp):Photo by <a href="https://www.pexels.com/@cottonbro/">cottonbro</a> on <a href="https://www.pexels.com/">Pexels</a>.
+14. [choir](assets/images/choir.webp): Photo by <a href="https://www.pexels.com/@blue-ox-studio-218748/">Blue Ox Studio</a> on <a href="https://www.pexels.com/">Pexels</a>.
