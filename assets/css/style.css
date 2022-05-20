@@ -217,14 +217,20 @@ body::-webkit-scrollbar {
 }
 
 /* Landing Section Styling */
+#hero-image {
+    max-height: 30rem;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
 #hero-image > img {
     height: auto;
     width: 100%;
 }
 
 #blurb {
-    padding: 0 1rem;
-    ;
+    padding: 0 2rem 4rem 2rem;
 }
 
 #blurb h2 {
