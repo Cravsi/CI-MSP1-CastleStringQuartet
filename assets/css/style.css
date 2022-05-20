@@ -52,6 +52,15 @@ br {
     margin: 3px 0;
 }
 
+/* Hide Scroll Bar */
+body {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+body::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+
 /* Font Helper Classes */
 
 .font-w300 {
