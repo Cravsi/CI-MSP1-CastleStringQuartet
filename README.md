@@ -6,6 +6,10 @@ For my **Portfolio Project 1** on **Code Institute's 5 Project Course** I have c
 
 Link to deployed [site](https://cravsi.github.io/castle-string-quartet/).
 
+<figure>
+    <img src="docs/testing/site-responsiveness.png" alt="The website colour pallette">
+</figure>
+
 ## Table of Contents
 - [Castle String Quartet](#castle-string-quartet)
   * [Table of Contents](#table-of-contents)
