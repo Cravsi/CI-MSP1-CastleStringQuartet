@@ -2,7 +2,7 @@
 
 # Castle String Quartet
 
-For my **Portfolio Project 1** on **Code Institute's 5 Project Course** I have created this informational website focused on being the go to site for a the Castle String Quartet. Here users can find out more about the quartet and find the groupd contact information.
+This project was my first attempt at designing and building a website. My goal was to gain a solid understanding of HTML/CSS how they interact and providing some basic documentation to outline my design decisions and technologies used to complete the design.
 
 Link to deployed [site](https://cravsi.github.io/castle-string-quartet/).
 
